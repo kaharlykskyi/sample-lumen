@@ -31,8 +31,8 @@
                         <span class="icon-bar"></span>
                     </button>
                     <a class="navbar-brand" href="./">
-                        <img class="logo logo-light" src="images/logo-white.png" alt="logo" />
-                        <img class="logo logo-color" src="images/logo.png" alt="logo" />
+                        <img class="logo logo-light" src="images/logo2-white.png" alt="logo" />
+                        <img class="logo logo-color" src="images/logo2.png" alt="logo" />
                     </a>
                 </div>
 

@@ -7,7 +7,7 @@
     <!-- Fav Icon  -->
     <link rel="shortcut icon" href="images/favicon.png">
     <!-- Site Title  -->
-    <title>Privet pacani</title>
+    <title>Bumeen Group - Web Development</title>
     <!-- Vendor Bundle CSS -->
     <link rel="stylesheet" href="assets/css/vendor.bundle.css">
     <!-- Custom styles for this template -->
@@ -41,10 +41,8 @@
                     <ul class="nav nav-list navbar-nav navbar-right">
                         <li><a class="nav-item" href="#home">Home</a></li>
                         <li><a class="nav-item" href="#about">About</a></li>
-                        <li><a class="nav-item" href="#features">Features</a></li>
-                        <li><a class="nav-item" href="#screenshots">Screenshots</a></li>
-                        <li><a class="nav-item" href="#pricing">Pricing</a></li>
                         <li><a class="nav-item" href="#team">Team</a></li>
+                        <li><a class="nav-item" href="#screenshots">Screenshots</a></li>
                         <li><a class="nav-item" href="#testimonial">Testimonial</a></li>
                         <li><a class="nav-item" href="#contacts">Contacts</a></li>
                     </ul>
@@ -56,27 +54,22 @@
     <div class="header-content">
         <div class="container">
             <div class="row">
-                <div class="col-md-6">
+                <div class="col-md-6 col-md-offset-3">
                     <div class="header-texts">
                         <h1 class="cd-headline clip is-full-width wow fadeInUp" data-wow-duration=".5s">
-                            <span>Showcase </span>
+                            <span>Develop </span>
                             <span class="cd-words-wrapper">
-										<b class="is-visible">Your Apps</b>
-										<b>Your Device</b>
-										<b>Mobile App</b>
+										<b class="is-visible">Your Website</b>
+										<b>Your Apps</b>
+										<b>Mobile Apps</b>
 									</span>
                         </h1>
-                        <p class="lead wow fadeInUp" data-wow-duration=".5s" data-wow-delay=".3s">Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa.</p>
+                        <p class="lead wow fadeInUp" data-wow-duration=".5s" data-wow-delay=".3s">You can’t find solution in a market that fits your business needs? We can help with custom one that will work just perfect for your business keeping your development costs optimal using different external services and APIs.</p>
                         <ul class="buttons">
-                            <li><a href="#" class="button wow fadeInUp" data-wow-duration=".5s" data-wow-delay=".6s">Download</a></li>
-                            <li><a href="#" class="button button-border button-transparent wow fadeInUp" data-wow-duration=".5s" data-wow-delay=".9s">Learn More</a></li>
+                            <li><a href="#contacts" class="button wow fadeInUp" data-wow-duration=".5s" data-wow-delay=".6s">Contact Us</a></li>
+                            <!-- <li><a href="#" class="button button-border button-transparent wow fadeInUp" data-wow-duration=".5s" data-wow-delay=".9s">Learn More</a></li> -->
                         </ul>
                     </div>
-                </div><!-- .col -->
-                <div class="col-md-6 header-mockup">
-                    <div class="mockup-screen mockup-screen-one wow fadeInRight" data-wow-duration=".5s"><img src="images/hs-1.png" alt="header screen" /></div>
-                    <div class="mockup-screen mockup-screen-two wow fadeInRight" data-wow-duration=".5s" data-wow-delay=".3s"><img src="images/hs-2.png" alt="header screen" /></div>
-                    <div class="mockup-screen mockup-screen-three wow fadeInRight" data-wow-duration=".5s" data-wow-delay=".6s"><img src="images/hs-3.png" alt="header screen" /></div>
                 </div><!-- .col -->
             </div><!-- .row -->
         </div><!-- .container -->
@@ -91,9 +84,9 @@
             <div class="col-md-3 col-sm-6">
                 <div class="box wow fadeInUp" data-wow-duration=".5s">
                     <div class="box-icon">
-                        <em class="ti ti-user"></em>
+                        <em class="ti ti-bar-chart"></em>
                     </div>
-                    <h4>User Friendly</h4>
+                    <h4>Business Automation</h4>
                 </div>
             </div><!-- .col -->
             <div class="col-md-3 col-sm-6">
@@ -101,23 +94,23 @@
                     <div class="box-icon">
                         <em class="ti ti-bolt"></em>
                     </div>
-                    <h4>Super Fast Speed</h4>
+                    <h4>Startups</h4>
                 </div>
             </div><!-- .col -->
             <div class="col-md-3 col-sm-6">
                 <div class="box wow fadeInUp" data-wow-duration=".5s" data-wow-delay=".6s">
                     <div class="box-icon">
-                        <em class="ti ti-cup"></em>
+                        <em class="ti ti-mobile"></em>
                     </div>
-                    <h4>Award Winning</h4>
+                    <h4>Mobile Applications</h4>
                 </div>
             </div><!-- .col -->
             <div class="col-md-3 col-sm-6">
                 <div class="box wow fadeInUp" data-wow-duration=".5s" data-wow-delay=".9s">
                     <div class="box-icon">
-                        <em class="ti ti-gift"></em>
+                        <em class="ti ti-desktop"></em>
                     </div>
-                    <h4>Get Special Gifts</h4>
+                    <h4>Web Development</h4>
                 </div>
             </div><!-- .col -->
         </div><!-- .row -->
@@ -131,7 +124,7 @@
         <div class="section-head text-center">
             <div class="row">
                 <div class="col-md-8 col-md-offset-2">
-                    <h2 class="heading">About <span>AppsLand</span></h2>
+                    <h2 class="heading">About <span>Bumeen Group</span></h2>
                     <p>Nam et sagittis diam. Sed tempor augue sit amet egestas scelerisque. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.</p>
                 </div>
             </div>
@@ -142,7 +135,7 @@
                     <h3>Take a Look Around our App</h3>
                     <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor.</p>
                     <p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto.</p>
-                    <a href="#" class="button">Download</a>
+                    <a href="#contacts" class="button">Contact Us</a>
                 </div>
             </div><!-- .col -->
             <div class="col-md-6">
@@ -157,267 +150,14 @@
 </div><!-- .about-section  -->
 
 
-<!-- Start .features-section  -->
-<div id="features" class="features-section section gradiant-background">
-    <div class="container tab-fix">
-        <div class="section-head heading-light text-center">
-            <div class="row">
-                <div class="col-md-8 col-md-offset-2">
-                    <h2 class="heading heading-light">Amazing Features</h2>
-                    <p>Nam et sagittis diam. Sed tempor augue sit amet egestas scelerisque. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.</p>
-                </div>
-            </div>
-        </div><!-- .section-head -->
-        <div class="features-content pt-10">
-            <div class="row">
-                <div class="col-md-4">
-                    <div class="features-list text-right tab-left mobile-left">
-                        <div class="single-features icon-right wow fadeIn">
-                            <em class="ti ti-user"></em>
-                            <h4>User Friendly</h4>
-                            <p>Lorem ipsum dolor sit amet consect etur adipisicing elited do eiusmod tempor incidi dout labore magna.</p>
-                        </div>
-                        <div class="single-features icon-right">
-                            <em class="ti ti-bolt"></em>
-                            <h4>Super Fast Speed</h4>
-                            <p>Lorem ipsum dolor sit amet consect etur adipisicing elited do eiusmod tempor incidi dout labore magna.</p>
-                        </div>
-                        <div class="single-features icon-right">
-                            <em class="ti ti-cup"></em>
-                            <h4>Award Winning</h4>
-                            <p>Lorem ipsum dolor sit amet consect etur adipisicing elited do eiusmod tempor incidi dout labore magna.</p>
-                        </div>
-                    </div>
-                </div><!-- .col -->
-                <div class="col-md-4 pull-right">
-                    <div class="features-list wow fadeIn">
-                        <div class="single-features">
-                            <em class="ti ti-video-camera"></em>
-                            <h4>Height Resolation</h4>
-                            <p>Lorem ipsum dolor sit amet consect etur adipisicing elited do eiusmod tempor incidi dout labore magna.</p>
-                        </div>
-                        <div class="single-features">
-                            <em class="ti ti-infinite"></em>
-                            <h4>Unlimited Posibility</h4>
-                            <p>Lorem ipsum dolor sit amet consect etur adipisicing elited do eiusmod tempor incidi dout labore magna.</p>
-                        </div>
-                        <div class="single-features">
-                            <em class="ti ti-comments"></em>
-                            <h4>Very Fast Support</h4>
-                            <p>Lorem ipsum dolor sit amet consect etur adipisicing elited do eiusmod tempor incidi dout labore magna.</p>
-                        </div>
-                    </div>
-                </div><!-- .col -->
-                <div class="col-md-4 text-center push-left">
-                    <div class="fearures-mockup iphonex wow fadeInUp" data-wow-duration="1s">
-                        <img src="images/sc-3.jpg" alt="features-mockup" />
-                    </div>
-                </div><!-- .col -->
-            </div><!-- .row -->
-        </div><!-- .features-content -->
-    </div><!-- .container -->
-</div><!-- .features-section  -->
-
-
-<!-- Start .screenshots-section  -->
-<div id="screenshots" class="screenshots-section section pb-120 white-bg">
-    <div class="container">
-        <div class="section-head text-center">
-            <div class="row">
-                <div class="col-md-8 col-md-offset-2">
-                    <h2 class="heading">Screenshots</h2>
-                    <p>Nam et sagittis diam. Sed tempor augue sit amet egestas scelerisque. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.</p>
-                    <ul class="download-buttons">
-                        <li><a href="#"><img src="images/google-play.png" alt="google-play" /></a></li>
-                        <li><a href="#"><img src="images/app-store.png" alt="app-store" /></a></li>
-                    </ul>
-                </div>
-            </div>
-        </div><!-- .section-head  -->
-        <div class="row">
-            <div class="col-md-12">
-                <div class="tab-fix">
-                    <div class="image-carousel has-carousel slide-screen iphonex owl-carousel owl-theme"  data-items="5" data-center="true" data-loop="true" data-auto="true" data-dots="true" data-navs="false">
-                        <div class="item"><img src="images/sc-1.jpg" alt="screenshoots" /></div>
-                        <div class="item"><img src="images/sc-2.jpg" alt="screenshoots" /></div>
-                        <div class="item"><img src="images/sc-3.jpg" alt="screenshoots" /></div>
-                        <div class="item"><img src="images/sc-4.jpg" alt="screenshoots" /></div>
-                        <div class="item"><img src="images/sc-5.jpg" alt="screenshoots" /></div>
-                        <div class="item"><img src="images/sc-6.jpg" alt="screenshoots" /></div>
-                        <div class="item"><img src="images/sc-2.jpg" alt="screenshoots" /></div>
-                    </div>
-                </div><!-- .col -->
-            </div><!-- .col -->
-        </div><!-- .row -->
-    </div><!-- .container-fluid -->
-</div><!-- .screenshots-section  -->
-
-
-<!-- Start .statistics-section  -->
-<div class="statistics-section section pt-120 pb-90 grey-background">
-    <div class="container">
-        <div class="row text-center">
-            <div class="col-md-3 col-sm-6">
-                <div class="box wow fadeIn" data-wow-duration=".5s">
-                    <div class="box-icon">
-                        <em class="ti ti-user"></em>
-                    </div>
-                    <h5>156k<span class="font-primary">Happy User</span></h5>
-                </div>
-            </div><!-- .col  -->
-            <div class="col-md-3 col-sm-6">
-                <div class="box wow fadeIn" data-wow-duration=".5s" data-wow-delay=".3s">
-                    <div class="box-icon">
-                        <em class="ti ti-list-ol"></em>
-                    </div>
-                    <h5>1529k<span class="font-primary">Line of Code</span></h5>
-                </div>
-            </div><!-- .col  -->
-            <div class="col-md-3 col-sm-6">
-                <div class="box wow fadeIn" data-wow-duration=".5s" data-wow-delay=".6s">
-                    <div class="box-icon">
-                        <em class="ti ti-download"></em>
-                    </div>
-                    <h5>156k<span class="font-primary">Downloads</span></h5>
-                </div>
-            </div><!-- .col  -->
-            <div class="col-md-3 col-sm-6">
-                <div class="box wow fadeIn" data-wow-duration=".5s" data-wow-delay=".9s">
-                    <div class="box-icon">
-                        <em class="ti ti-star"></em>
-                    </div>
-                    <h5>4.9/5<span class="font-primary">App Rates</span></h5>
-                </div>
-            </div><!-- .col  -->
-        </div><!-- .row  -->
-    </div><!-- .container  -->
-</div><!-- Start .statistics-section  -->
-
-
-<!-- Start .pricing-section  -->
-<div id="pricing" class="pricing-section section pb-80">
-    <div class="imagebg">
-        <img src="images/pricing-bg.jpg" alt="pricing-bg">
-    </div>
-    <div class="gradiant-background gradiant-overlay gradiant-light"></div><!-- .gradiant-background  /exta div for transparent gradiant overlay /  -->
-    <div class="container tab-fix">
-        <div class="section-head heading-light text-center">
-            <div class="row">
-                <div class="col-md-8 col-md-offset-2">
-                    <h2 class="heading heading-light">Choose your plan</h2>
-                    <p>Nam et sagittis diam. Sed tempor augue sit amet egestas scelerisque. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.</p>
-                </div>
-            </div>
-        </div><!-- .col -->
-        <div class="row text-center">
-            <div class="col-md-4 col-sm-12">
-                <div class="pricing-box wow fadeIn" data-wow-duration="1s">
-                    <div class="pricing-top gradiant-background">
-                        <h5>Basic Plan</h5>
-                        <h2>$19.99</h2>
-                    </div>
-                    <div class="pricing-bottom">
-                        <ul class="text-left">
-                            <li><em class="ti ti-check"></em>Always Open</li>
-                            <li><em class="ti ti-check"></em>Free Tutorial</li>
-                            <li><em class="ti ti-close"></em>24/7 Live Support</li>
-                            <li><em class="ti ti-close"></em>Free Subscription</li>
-                            <li><em class="ti ti-close"></em>12 Videos</li>
-                        </ul>
-                        <a href="#" class="button button-uppercase"> Sign Up</a>
-                    </div>
-                </div>
-            </div><!-- .col  -->
-            <div class="col-md-4 col-sm-12">
-                <div class="pricing-box wow fadeIn" data-wow-duration="1s">
-                    <div class="pricing-top gradiant-background">
-                        <span class="pricing-badge">Most Popular</span>
-                        <h5>Premium plan</h5>
-                        <h2>$31.99</h2>
-                    </div>
-                    <div class="pricing-bottom">
-                        <ul class="text-left">
-                            <li><em class="ti ti-check"></em>Always Open</li>
-                            <li><em class="ti ti-check"></em>Free Tutorial</li>
-                            <li><em class="ti ti-check"></em>24/7 Live Support</li>
-                            <li><em class="ti ti-close"></em>Free Subscription</li>
-                            <li><em class="ti ti-close"></em>12 Videos</li>
-                        </ul>
-                        <a href="#" class="button button-uppercase"> Sign Up</a>
-                    </div>
-                </div>
-            </div><!-- .col  -->
-            <div class="col-md-4 col-sm-12">
-                <div class="pricing-box wow fadeIn" data-wow-duration="1s">
-                    <div class="pricing-top gradiant-background">
-                        <h5>Business Plan</h5>
-                        <h2>$49.99</h2>
-                    </div>
-                    <div class="pricing-bottom">
-                        <ul class="text-left">
-                            <li><em class="ti ti-check"></em>Always Open</li>
-                            <li><em class="ti ti-check"></em>Free Tutorial</li>
-                            <li><em class="ti ti-check"></em>24/7 Live Support</li>
-                            <li><em class="ti ti-check"></em>Free Subscription</li>
-                            <li><em class="ti ti-check"></em>12 Videos</li>
-                        </ul>
-                        <a href="#" class="button button-uppercase"> Sign Up</a>
-                    </div>
-                </div>
-            </div><!-- .col  -->
-        </div><!-- .row -->
-        <div class="faq pt-90">
-            <div class="row tab-center mobile-center tab-fix">
-                <div class="col-md-3">
-                    <div class="side-heading heading-light">
-                        <h2 class="heading heading-light">FAQ</h2>
-                        <p>We got you coverd, check those faq if its not there just <a class="nav-item" href="#contacts">ask</a> us.</p>
-                    </div>
-                </div><!-- .col  -->
-                <div class="col-md-8 col-md-offset-1">
-                    <div class="row">
-                        <div class="col-sm-6">
-                            <div class="faqs">
-                                <h4 class="faq-heading">Is this app free ?</h4>
-                                <p>Internal audit is an independent, objective assurance and consulting activity designed to add value and improve an organization.</p>
-                            </div>
-                        </div><!-- .col  -->
-                        <div class="col-sm-6">
-                            <div class="faqs">
-                                <h4 class="faq-heading">How to make a request ?</h4>
-                                <p>We budget between 200 and 600 hours for a typical delivery, depending on the size and complexity of your business.</p>
-                            </div>
-                        </div><!-- .col  -->
-                    </div><!-- .row  -->
-                    <div class="row">
-                        <div class="col-sm-6">
-                            <div class="faqs">
-                                <h4 class="faq-heading">How can i download update.</h4>
-                                <p>Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus. Vivamus elementum semper nisi Aenean.</p>
-                            </div>
-                        </div><!-- .col  -->
-                        <div class="col-sm-6">
-                            <div class="faqs">
-                                <h4 class="faq-heading">Is there any paid version ?</h4>
-                                <p>Quisque rutrum. Aenean imperdiet. Etiam ultricies nisi vel augue. Curabitur ullamcorper ultricies nisi. Nam eget dui.</p>
-                            </div>
-                        </div><!-- .col  -->
-                    </div><!-- .row  -->
-                </div><!-- .col  -->
-            </div><!-- .row  -->
-        </div><!-- .faq  -->
-    </div><!-- .container -->
-</div><!-- .pricing-section  -->
-
-
 <!-- Start .team-section  -->
-<div class="team-section section grey-background pb-90" id="team">
+<div class="team-contact-section section gradiant-background pb-90" id="team">
     <div class="container">
         <div class="section-head text-center">
             <div class="row">
                 <div class="col-md-8 col-md-offset-2">
-                    <h2 class="heading">Our <span>Team</span></h2>
-                    <p>Nam et sagittis diam. Sed tempor augue sit amet egestas scelerisque. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.</p>
+                    <h2 class="heading white-text">Our <span class="white-text">Team</span></h2>
+                    <p class="white-text">Nam et sagittis diam. Sed tempor augue sit amet egestas scelerisque. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.</p>
                 </div>
             </div>
         </div><!-- .section-head  -->
@@ -734,6 +474,36 @@
     </div><!-- .container  -->
 </div><!-- .team-section  -->
 
+<!-- Start .screenshots-section  -->
+<div id="screenshots" class="screenshots-section section pb-120 white-bg">
+    <div class="container">
+        <div class="section-head text-center">
+            <div class="row">
+                <div class="col-md-8 col-md-offset-2">
+                    <h2 class="heading">Screenshots</h2>
+                    <p>Nam et sagittis diam. Sed tempor augue sit amet egestas scelerisque. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.</p>
+                </div>
+            </div>
+        </div><!-- .section-head  -->
+        <div class="row ">
+            <div class="col-md-12">
+                <div class="tab-fix">
+                    <div class="image-carousel has-carousel slide-screen iphonex owl-carousel owl-theme"  data-items="5" data-center="true" data-loop="true" data-auto="true" data-dots="true" data-navs="false">
+                        <div class="item"><img src="images/sc-1.jpg" alt="screenshoots" /></div>
+                        <div class="item"><img src="images/sc-2.jpg" alt="screenshoots" /></div>
+                        <div class="item"><img src="images/sc-3.jpg" alt="screenshoots" /></div>
+                        <div class="item"><img src="images/sc-4.jpg" alt="screenshoots" /></div>
+                        <div class="item"><img src="images/sc-5.jpg" alt="screenshoots" /></div>
+                        <div class="item"><img src="images/sc-6.jpg" alt="screenshoots" /></div>
+                        <div class="item"><img src="images/sc-2.jpg" alt="screenshoots" /></div>
+                    </div>
+                </div><!-- .col -->
+            </div><!-- .col -->
+        </div><!-- .row -->
+    </div><!-- .container-fluid -->
+</div><!-- .screenshots-section  -->
+
+
 
 <!-- Start .testimonial-section  -->
 <div id="testimonial" class="testimonial-section section white-bg pb-120">
@@ -835,16 +605,16 @@
             <div class="col-md-6">
                 <div class="contact-info white-bg">
                     <div class="row">
-                        <div class="col-sm-6">
-                            <h6><em class="fa fa-envelope"></em> example@gmail.com</h6>
+                        <div class="col-sm-7">
+                            <h6><em class="fa fa-chrome"></em> <a href="https://bumeengroup.com">https://bumeengroup.com</a></h6>
                         </div>
-                        <div class="col-sm-6">
-                            <h6><em class="fa fa-phone"></em> (+123) 456 - 7890</h6>
+                        <div class="col-sm-7">
+                            <h6><em class="fa fa-phone"></em> +38 (095) 286-99-02</h6>
                         </div>
                     </div>
                     <div class="row">
                         <div class="col-sm-12">
-                            <h6><em class="fa fa-map-marker"></em> 217 Summit Boulevard Birmingham, AL 35243</h6>
+                            <h6><em class="fa fa-map-marker"></em> Ukraine, Kyiv</h6>
                         </div>
                     </div>
                 </div>
@@ -863,24 +633,18 @@
                 <ul class="footer-navigation inline-list">
                     <li><a class="nav-item" href="#home">Home</a></li>
                     <li><a class="nav-item" href="#about">About</a></li>
-                    <li><a class="nav-item" href="#features">Features</a></li>
-                    <li><a class="nav-item" href="#screenshots">Screenshots</a></li>
-                    <li><a class="nav-item" href="#pricing">Pricing</a></li>
                     <li><a class="nav-item" href="#team">Team</a></li>
+                    <li><a class="nav-item" href="#screenshots">Screenshots</a></li>
                     <li><a class="nav-item" href="#testimonial">Testimonial</a></li>
                     <li><a class="nav-item" href="#contacts">Contacts</a></li>
                 </ul>
                 <ul class="social-list inline-list">
                     <li><a href="#"><em class="fa fa-facebook"></em></a></li>
-                    <li><a href="#"><em class="fa fa-twitter"></em></a></li>
-                    <li><a href="#"><em class="fa fa-google-plus"></em></a></li>
-                    <li><a href="#"><em class="fa fa-pinterest"></em></a></li>
                     <li><a href="#"><em class="fa fa-linkedin"></em></a></li>
-                    <li><a href="#"><em class="fa fa-instagram"></em></a></li>
+                    <li><a href="#"><em class="fa fa-google-plus"></em></a></li>
                 </ul>
                 <ul class="footer-links inline-list">
-                    <li>Copyright © 2018 AppsLand. Template Made by <a target="_blank" href="http://softnio.com/">Softnio</a></li>
-                    <li><a href="#">Privacy Policy</a></li>
+                    <li>Copyright © 2018 BumeenGroup. All Rights Reserved.</li>
                 </ul>
             </div><!-- .col  -->
         </div><!-- .row  -->

@@ -1392,6 +1392,7 @@ label.error {
 
 .is-transparent .navbar-brand .logo-light{
     display: block;
+
 }
 
 .is-transparent .navbar-brand .logo-color{
@@ -2565,6 +2566,11 @@ label.error {
 	margin-bottom:30px;
 	text-align:center;
 }
+
+.white-text {
+    color:#fff !important;
+}
+
 .team-member .team-photo {
     position: relative
 }
@@ -2588,13 +2594,15 @@ label.error {
 	border-radius:8px;
 }
 .team-member .team-info {
-    margin-top: 25px
+    margin-top: 25px;
 }
 .team-member .team-info h4,
 .team-member .team-info .name {
     margin-bottom:5px;
+    color:#fff;
 }
 .team-member .team-info .sub-title {
+    color:#fff;
     font-size: .875em;
 }
 
@@ -2770,6 +2778,7 @@ label.error {
 
 /* 14. Contact Section*/
 .contact-form{
+	height: 494px;
 	border-radius:8px;
 	padding:35px 35px 40px;
 	margin-bottom:30px;

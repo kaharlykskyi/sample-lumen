@@ -37,7 +37,7 @@
                 </div>
 
                 <!-- Collect the nav links, forms, and other content for toggling -->
-                <div class="collapse navbar-collapse font-secondary" id="site-collapse-nav">
+                <div class="collapse navbar-collapse font-secondary" style="margin-bottom: 7px" id="site-collapse-nav">
                     <ul class="nav nav-list navbar-nav navbar-right">
                         <li><a class="nav-item" href="#home">Home</a></li>
                         <li><a class="nav-item" href="#about">About</a></li>

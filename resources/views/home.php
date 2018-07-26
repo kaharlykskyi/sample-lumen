@@ -42,7 +42,7 @@
                         <li><a class="nav-item" href="#home">Home</a></li>
                         <li><a class="nav-item" href="#about">About</a></li>
                         <li><a class="nav-item" href="#team">Team</a></li>
-                        <li><a class="nav-item" href="#screenshots">Portfolio</a></li>
+                        <li><a class="nav-item" href="#screenshots">Our portfolio</a></li>
                         <li><a class="nav-item" href="#testimonial">Testimonial</a></li>
                         <li><a class="nav-item" href="#contacts">Contacts</a></li>
                     </ul>
@@ -164,12 +164,12 @@
             <div class="col-md-3 col-sm-6">
                 <div class="team-member">
                     <div class="team-photo">
-                        <img src="images/team-a.jpg" alt="team" />
+                        <img style="height: 263px;" src="images/team-a.jpg" alt="team" />
                         <a href="#team-profile-1" class="expand-trigger content-popup"><span class="ti ti-plus"></span></a>
                     </div>
                     <div class="team-info">
                         <h4 class="name">Sergey Goreliy</h4>
-                        <p class="sub-title">Chief Executive Officer</p>
+                        <p class="sub-title">CEO</p>
                     </div>
                     <!-- Start .team-profile  -->
                     <div id="team-profile-1" class="team-profile mfp-hide">
@@ -198,12 +198,12 @@
             <div class="col-md-3 col-sm-6">
                 <div class="team-member">
                     <div class="team-photo">
-                        <img src="images/team-b.jpg" alt="team" />
+                        <img src="images/mike.jpeg" style="height: 263px;" alt="team" />
                         <a href="#team-profile-2" class="expand-trigger content-popup"><span class="ti ti-plus"></span></a>
                     </div>
                     <div class="team-info">
-                        <h4 class="name">Michail Kagarlycky</h4>
-                        <p class="sub-title">Chief Technical Officer</p>
+                        <h4 class="name">Mike Kaharlykskyi</h4>
+                        <p class="sub-title">CTO</p>
                     </div>
                     <!-- Start .team-profile  -->
                     <div id="team-profile-2" class="team-profile mfp-hide">
@@ -212,12 +212,12 @@
                             <div class="row no-mg">
                                 <div class="col-md-6">
                                     <div class="team-profile-photo">
-                                        <img src="images/team-b.jpg" alt="team" />
+                                        <img src="images/mike.jpeg" alt="team" />
                                     </div>
                                 </div><!-- .col  -->
                                 <div class="col-md-6">
                                     <div class="team-profile-info">
-                                        <h3 class="name">Michail Kagarlycky</h3>
+                                        <h3 class="name">Mike Kaharlykskyi</h3>
                                         <p class="sub-title">Chief Technical Officer</p>
                                         <br><p>Work with the CEO and other executives to develop a technical strategy for the company.</p>
                                         <br><p>Aids recruitment and retention efforts, streamlines production operations, and advocates for innovative ideas, high production, and individual on the team.</p>
@@ -232,7 +232,7 @@
             <div class="col-md-3 col-sm-6">
                 <div class="team-member">
                     <div class="team-photo">
-                        <img src="images/team-c.jpg" alt="team" />
+                        <img style="height: 263px;" src="images/team-c.jpg" alt="team" />
                         <a href="#team-profile-3" class="expand-trigger content-popup"><span class="ti ti-plus"></span></a>
                     </div>
                     <div class="team-info">
@@ -265,7 +265,7 @@
             <div class="col-md-3 col-sm-6">
                 <div class="team-member">
                     <div class="team-photo">
-                        <img src="images/team-d.jpg" alt="team" />
+                        <img style="height: 263px;" src="images/team-d.jpg" alt="team" />
                         <a href="#team-profile-4" class="expand-trigger content-popup"><span class="ti ti-plus"></span></a>
                     </div>
                     <div class="team-info">
@@ -319,6 +319,8 @@
                 <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
                 <li data-target="#myCarousel" data-slide-to="1"></li>
                 <li data-target="#myCarousel" data-slide-to="2"></li>
+                <li data-target="#myCarousel" data-slide-to="3"></li>
+                <li data-target="#myCarousel" data-slide-to="4"></li>
             </ol>
 
             <!-- Wrapper for slides -->
@@ -326,13 +328,17 @@
                 <div class="item active">
                     <img src="images/pf_1.png" class="center">
                 </div>
-
                 <div class="item">
                     <img src="images/pf_2.jpg" class="center">
                 </div>
-
                 <div class="item">
                     <img src="images/pf_3.jpg" class="center">
+                </div>
+                <div class="item">
+                    <img src="images/pf_4.png" class="center">
+                </div>
+                <div class="item">
+                    <img src="images/pf_5.png" class="center">
                 </div>
             </div>
 
@@ -365,6 +371,7 @@
                 <div class="col-md-8 col-md-offset-2">
                     <h2 class="heading">What our <span>client say !</span></h2>
                     <p>We always go really deep to client's business and problems and advise with our<br>expertise to kill client's pains.</p>
+                    <p>More reviews you can find <a href="https://www.freelancer.com.ru/u/bumeengroup#/reviews" target="_blank">here</a></p>
                 </div>
             </div>
         </div><!-- .section-head  -->
@@ -396,6 +403,26 @@
                             <img src="images/quote-icon.png" class="quote-icon" alt="quote-icon" />
                             <blockquote>Working on a big project with Bumeen Group. Very good communication throughout the project.</blockquote>
                             <h6>"harpzgrewal" from freelancer.com</h6>
+                            <div class="client-image">
+                                <img src="images/client-1.jpg" alt="client" />
+                            </div>
+                        </div>
+                    </div>
+                    <div class="item text-center">
+                        <div class="quotes">
+                            <img src="images/quote-icon.png" class="quote-icon" alt="quote-icon" />
+                            <blockquote>"Many projects done with Bumeen Group and I would say it is satisfaction to work with them."</blockquote>
+                            <h6>"rawashde90" from freelancer.com</h6>
+                            <div class="client-image">
+                                <img src="images/client-1.jpg" alt="client" />
+                            </div>
+                        </div>
+                    </div>
+                    <div class="item text-center">
+                        <div class="quotes">
+                            <img src="images/quote-icon.png" class="quote-icon" alt="quote-icon" />
+                            <blockquote>"Bumeen Group has done some add-ons to my project meteopixx.ch. All the wishes where included in shortest time. Thanks a lot!"</blockquote>
+                            <h6>"SwissWetter" from freelancer.com</h6>
                             <div class="client-image">
                                 <img src="images/client-1.jpg" alt="client" />
                             </div>

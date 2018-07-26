@@ -42,7 +42,7 @@
                         <li><a class="nav-item" href="#home">Home</a></li>
                         <li><a class="nav-item" href="#about">About</a></li>
                         <li><a class="nav-item" href="#team">Team</a></li>
-                        <li><a class="nav-item" href="#screenshots">Screenshots</a></li>
+                        <li><a class="nav-item" href="#screenshots">Portfolio</a></li>
                         <li><a class="nav-item" href="#testimonial">Testimonial</a></li>
                         <li><a class="nav-item" href="#contacts">Contacts</a></li>
                     </ul>
@@ -125,24 +125,23 @@
             <div class="row">
                 <div class="col-md-8 col-md-offset-2">
                     <h2 class="heading">About <span>Bumeen Group</span></h2>
-                    <p>Nam et sagittis diam. Sed tempor augue sit amet egestas scelerisque. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.</p>
+                    <p>Bumeen Group is a web & mobile development company based in Kyiv, Ukraine. The company was founded in 2016. We strive to provide customer relations and technical perfection while understanding the value of our client, software product requirements and a way to implement it.</p>
                 </div>
             </div>
         </div><!-- .section-head -->
         <div class="row tab-center mobile-center">
             <div class="col-md-6">
                 <div class="txt-entry">
-                    <h3>Take a Look Around our App</h3>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor.</p>
-                    <p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto.</p>
-                    <a href="#contacts" class="button">Contact Us</a>
+                    <h3>Take a Look Around our Team</h3>
+                    <p>We're a full-cycle team of experienced web developers. We are very interested in developing your project and will be glad to assist you. We provide the whole package: project manager, front-end developer, back-end developer and of course, quality assurance specialists.</p>
+                    <a href="#contacts" class="button">Get In Touch</a>
                 </div>
             </div><!-- .col -->
             <div class="col-md-6">
                 <div class="video wow fadeInRight" data-wow-duration=".5s">
                     <img src="images/about-video.jpg" alt="about-video" />
                     <div class="video-overlay gradiant-background"></div>
-                    <a href="https://www.youtube.com/watch?v=kuceVNBTJio" class="video-play" data-effect="mfp-3d-unfold"><i class="fa fa-play"></i></a>
+                    <a href="https://www.youtube.com/watch?v=Sagg08DrO5U" class="video-play" data-effect="mfp-3d-unfold"><i class="fa fa-play"></i></a>
                 </div>
             </div><!-- .col -->
         </div><!-- .row -->
@@ -157,7 +156,7 @@
             <div class="row">
                 <div class="col-md-8 col-md-offset-2">
                     <h2 class="heading white-text">Our <span class="white-text">Team</span></h2>
-                    <p class="white-text">Nam et sagittis diam. Sed tempor augue sit amet egestas scelerisque. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.</p>
+                    <p class="white-text">Our dedicated team includes full-time experts in website and application developing. We are passionate about website development, and our staff has more than 10 years of combined experience in website design, website development, mobile applications development.</p>
                 </div>
             </div>
         </div><!-- .section-head  -->
@@ -169,8 +168,8 @@
                         <a href="#team-profile-1" class="expand-trigger content-popup"><span class="ti ti-plus"></span></a>
                     </div>
                     <div class="team-info">
-                        <h4 class="name">Robert Miller</h4>
-                        <p class="sub-title">UI/UX Designer</p>
+                        <h4 class="name">Sergey Goreliy</h4>
+                        <p class="sub-title">Chief Executive Officer</p>
                     </div>
                     <!-- Start .team-profile  -->
                     <div id="team-profile-1" class="team-profile mfp-hide">
@@ -184,54 +183,11 @@
                                 </div><!-- .col  -->
                                 <div class="col-md-6">
                                     <div class="team-profile-info">
-                                        <h3 class="name">Robert Miller</h3>
-                                        <p class="sub-title">UI/UX Designer</p>
-                                        <ul class="social">
-                                            <li><a href="#"><em class="fa fa-facebook"></em></a></li>
-                                            <li><a href="#"><em class="fa fa-twitter"></em></a></li>
-                                            <li><a href="#"><em class="fa fa-google-plus"></em></a></li>
-                                            <li><a href="#"><em class="fa fa-instagram"></em></a></li>
-                                        </ul>
-                                        <p>He is a great man to work Lorem ipsum dolor sit amet, consec tetur adipis icing elit. Simi lique, autem. </p>
-                                        <p>Tenetur quos facere magnam volupt ates quas esse Sedrep ell endus mole stiae tates quas esse Sed repell endus molesti aela uda ntium quis quam iusto minima thanks.</p>
-                                        <div class="skill-bars">
-                                            <div class="single-skill-bar">
-                                                <div class="row no-mg">
-                                                    <div class="col-xs-8 no-pd"><span class="skill-title">HTML5</span></div>
-                                                    <div class="col-xs-4 text-right no-pd"><span class="skill-percent">85%</span></div>
-                                                </div>
-                                                <div class="skill-bar">
-                                                    <div class="skill-bar-percent gradiant-background" style="width:85%"></div>
-                                                </div>
-                                            </div>
-                                            <div class="single-skill-bar">
-                                                <div class="row no-mg">
-                                                    <div class="col-xs-8 no-pd"><span class="skill-title">CSS3</span></div>
-                                                    <div class="col-xs-4 text-right no-pd"><span class="skill-percent">90%</span></div>
-                                                </div>
-                                                <div class="skill-bar">
-                                                    <div class="skill-bar-percent gradiant-background" style="width:90%"></div>
-                                                </div>
-                                            </div>
-                                            <div class="single-skill-bar">
-                                                <div class="row no-mg">
-                                                    <div class="col-xs-8 no-pd"><span class="skill-title">Java</span></div>
-                                                    <div class="col-xs-4 text-right no-pd"><span class="skill-percent">75%</span></div>
-                                                </div>
-                                                <div class="skill-bar">
-                                                    <div class="skill-bar-percent gradiant-background" style="width:75%"></div>
-                                                </div>
-                                            </div>
-                                            <div class="single-skill-bar">
-                                                <div class="row no-mg">
-                                                    <div class="col-xs-8 no-pd"><span class="skill-title">Node.js</span></div>
-                                                    <div class="col-xs-4 text-right no-pd"><span class="skill-percent">80%</span></div>
-                                                </div>
-                                                <div class="skill-bar">
-                                                    <div class="skill-bar-percent gradiant-background" style="width:80%"></div>
-                                                </div>
-                                            </div>
-                                        </div>
+                                        <h3 class="name">Sergey Goreliy</h3>
+                                        <p class="sub-title">Chief Executive Officer</p>
+                                        <br><p>Developing high quality business strategies and plans ensuring their alignment with short-term and long-term objectives.</p>
+                                        <br><p>Leading and motivating subordinates to advance employee engagement develop a high performing managerial team.</p>
+                                        <br><p>Overseeing all operations and business activities to ensure they produce the desired results and are consistent with the overall strategy and mission.</p>
                                     </div>
                                 </div><!-- .col  -->
                             </div><!-- .row  -->
@@ -246,8 +202,8 @@
                         <a href="#team-profile-2" class="expand-trigger content-popup"><span class="ti ti-plus"></span></a>
                     </div>
                     <div class="team-info">
-                        <h4 class="name">Stephen Everett</h4>
-                        <p class="sub-title">Fornt-End Developer</p>
+                        <h4 class="name">Michail Kagarlycky</h4>
+                        <p class="sub-title">Chief Technical Officer</p>
                     </div>
                     <!-- Start .team-profile  -->
                     <div id="team-profile-2" class="team-profile mfp-hide">
@@ -261,54 +217,11 @@
                                 </div><!-- .col  -->
                                 <div class="col-md-6">
                                     <div class="team-profile-info">
-                                        <h3 class="name">Stephen Everett</h3>
-                                        <p class="sub-title">Fornt-End Developer</p>
-                                        <ul class="social">
-                                            <li><a href="#"><em class="fa fa-facebook"></em></a></li>
-                                            <li><a href="#"><em class="fa fa-twitter"></em></a></li>
-                                            <li><a href="#"><em class="fa fa-google-plus"></em></a></li>
-                                            <li><a href="#"><em class="fa fa-instagram"></em></a></li>
-                                        </ul>
-                                        <p>He is a great man to work Lorem ipsum dolor sit amet, consec tetur adipis icing elit. Simi lique, autem. </p>
-                                        <p>Tenetur quos facere magnam volupt ates quas esse Sedrep ell endus mole stiae tates quas esse Sed repell endus molesti aela uda ntium quis quam iusto minima thanks.</p>
-                                        <div class="skill-bars">
-                                            <div class="single-skill-bar">
-                                                <div class="row no-mg">
-                                                    <div class="col-xs-8 no-pd"><span class="skill-title">HTML5</span></div>
-                                                    <div class="col-xs-4 text-right no-pd"><span class="skill-percent">85%</span></div>
-                                                </div>
-                                                <div class="skill-bar">
-                                                    <div class="skill-bar-percent gradiant-background" style="width:85%"></div>
-                                                </div>
-                                            </div>
-                                            <div class="single-skill-bar">
-                                                <div class="row no-mg">
-                                                    <div class="col-xs-8 no-pd"><span class="skill-title">CSS3</span></div>
-                                                    <div class="col-xs-4 text-right no-pd"><span class="skill-percent">90%</span></div>
-                                                </div>
-                                                <div class="skill-bar">
-                                                    <div class="skill-bar-percent gradiant-background" style="width:90%"></div>
-                                                </div>
-                                            </div>
-                                            <div class="single-skill-bar">
-                                                <div class="row no-mg">
-                                                    <div class="col-xs-8 no-pd"><span class="skill-title">Java</span></div>
-                                                    <div class="col-xs-4 text-right no-pd"><span class="skill-percent">75%</span></div>
-                                                </div>
-                                                <div class="skill-bar">
-                                                    <div class="skill-bar-percent gradiant-background" style="width:75%"></div>
-                                                </div>
-                                            </div>
-                                            <div class="single-skill-bar">
-                                                <div class="row no-mg">
-                                                    <div class="col-xs-8 no-pd"><span class="skill-title">Node.js</span></div>
-                                                    <div class="col-xs-4 text-right no-pd"><span class="skill-percent">80%</span></div>
-                                                </div>
-                                                <div class="skill-bar">
-                                                    <div class="skill-bar-percent gradiant-background" style="width:80%"></div>
-                                                </div>
-                                            </div>
-                                        </div>
+                                        <h3 class="name">Michail Kagarlycky</h3>
+                                        <p class="sub-title">Chief Technical Officer</p>
+                                        <br><p>Work with the CEO and other executives to develop a technical strategy for the company.</p>
+                                        <br><p>Aids recruitment and retention efforts, streamlines production operations, and advocates for innovative ideas, high production, and individual on the team.</p>
+                                        <br><p>Maximizes the efficiency of production efforts by coordinating the various teams and operations involved in the process and ensuring there is no overlap.</p>
                                     </div>
                                 </div><!-- .col  -->
                             </div><!-- .row  -->
@@ -323,8 +236,8 @@
                         <a href="#team-profile-3" class="expand-trigger content-popup"><span class="ti ti-plus"></span></a>
                     </div>
                     <div class="team-info">
-                        <h4 class="name">Philip Hennessy</h4>
-                        <p class="sub-title">FullStack Developer</p>
+                        <h4 class="name">Yaroslav Chanyzh</h4>
+                        <p class="sub-title">Team Lead</p>
                     </div>
                     <!-- Start .team-profile  -->
                     <div id="team-profile-3" class="team-profile mfp-hide">
@@ -338,54 +251,10 @@
                                 </div><!-- .col  -->
                                 <div class="col-md-6">
                                     <div class="team-profile-info">
-                                        <h3 class="name">Philip Hennessy</h3>
-                                        <p class="sub-title">FullStack Developer</p>
-                                        <ul class="social">
-                                            <li><a href="#"><em class="fa fa-facebook"></em></a></li>
-                                            <li><a href="#"><em class="fa fa-twitter"></em></a></li>
-                                            <li><a href="#"><em class="fa fa-google-plus"></em></a></li>
-                                            <li><a href="#"><em class="fa fa-instagram"></em></a></li>
-                                        </ul>
-                                        <p>He is a great man to work Lorem ipsum dolor sit amet, consec tetur adipis icing elit. Simi lique, autem. </p>
-                                        <p>Tenetur quos facere magnam volupt ates quas esse Sedrep ell endus mole stiae tates quas esse Sed repell endus molesti aela uda ntium quis quam iusto minima thanks.</p>
-                                        <div class="skill-bars">
-                                            <div class="single-skill-bar">
-                                                <div class="row no-mg">
-                                                    <div class="col-xs-8 no-pd"><span class="skill-title">HTML5</span></div>
-                                                    <div class="col-xs-4 text-right no-pd"><span class="skill-percent">85%</span></div>
-                                                </div>
-                                                <div class="skill-bar">
-                                                    <div class="skill-bar-percent gradiant-background" style="width:85%"></div>
-                                                </div>
-                                            </div>
-                                            <div class="single-skill-bar">
-                                                <div class="row no-mg">
-                                                    <div class="col-xs-8 no-pd"><span class="skill-title">CSS3</span></div>
-                                                    <div class="col-xs-4 text-right no-pd"><span class="skill-percent">90%</span></div>
-                                                </div>
-                                                <div class="skill-bar">
-                                                    <div class="skill-bar-percent gradiant-background" style="width:90%"></div>
-                                                </div>
-                                            </div>
-                                            <div class="single-skill-bar">
-                                                <div class="row no-mg">
-                                                    <div class="col-xs-8 no-pd"><span class="skill-title">Java</span></div>
-                                                    <div class="col-xs-4 text-right no-pd"><span class="skill-percent">75%</span></div>
-                                                </div>
-                                                <div class="skill-bar">
-                                                    <div class="skill-bar-percent gradiant-background" style="width:75%"></div>
-                                                </div>
-                                            </div>
-                                            <div class="single-skill-bar">
-                                                <div class="row no-mg">
-                                                    <div class="col-xs-8 no-pd"><span class="skill-title">Node.js</span></div>
-                                                    <div class="col-xs-4 text-right no-pd"><span class="skill-percent">80%</span></div>
-                                                </div>
-                                                <div class="skill-bar">
-                                                    <div class="skill-bar-percent gradiant-background" style="width:80%"></div>
-                                                </div>
-                                            </div>
-                                        </div>
+                                        <h3 class="name">Yaroslav Chanyzh</h3>
+                                        <p class="sub-title">Team Lead</p>
+                                        <br><p>Ultimately responsible for ensuring the team is consistently delivering working software to the standards which our company expects whether this be within an iteration or through a continuous flow model so that we are consistently delivering value to Bumeen Group.</p>
+                                        <br><p>Ensures that the team is collaborating closely with our customers and understands their requirements so we have a good understanding of the problems we are trying to solve and we do not waste time on rework and more importantly are able to suggest appropriate solutions to their needs.</p>
                                     </div>
                                 </div><!-- .col  -->
                             </div><!-- .row  -->
@@ -400,8 +269,8 @@
                         <a href="#team-profile-4" class="expand-trigger content-popup"><span class="ti ti-plus"></span></a>
                     </div>
                     <div class="team-info">
-                        <h4 class="name">Nicholas Miller</h4>
-                        <p class="sub-title">Development Team Lead</p>
+                        <h4 class="name">Anna Zvonikova</h4>
+                        <p class="sub-title">Sales Manager</p>
                     </div>
                     <!-- Start .team-profile  -->
                     <div id="team-profile-4" class="team-profile mfp-hide">
@@ -415,55 +284,11 @@
                                 </div><!-- .col  -->
                                 <div class="col-md-6">
                                     <div class="team-profile-info">
-                                        <h3 class="name">Nicholas Miller</h3>
-                                        <p class="sub-title">Development Team Lead</p>
-                                        <ul class="social">
-                                            <li><a href="#"><em class="fa fa-facebook"></em></a></li>
-                                            <li><a href="#"><em class="fa fa-twitter"></em></a></li>
-                                            <li><a href="#"><em class="fa fa-google-plus"></em></a></li>
-                                            <li><a href="#"><em class="fa fa-instagram"></em></a></li>
-                                        </ul>
-                                        <p>He is a great man to work Lorem ipsum dolor sit amet, consec tetur adipis icing elit. Simi lique, autem. </p>
-                                        <p>Tenetur quos facere magnam volupt ates quas esse Sedrep ell endus mole stiae tates quas esse Sed repell endus molesti aela uda ntium quis quam iusto minima thanks.</p>
-                                        <div class="skill-bars">
-                                            <div class="single-skill-bar">
-                                                <div class="row no-mg">
-                                                    <div class="col-xs-8 no-pd"><span class="skill-title">HTML5</span></div>
-                                                    <div class="col-xs-4 text-right no-pd"><span class="skill-percent">85%</span></div>
-                                                </div>
-                                                <div class="skill-bar">
-                                                    <div class="skill-bar-percent gradiant-background" style="width:85%"></div>
-                                                </div>
-                                            </div>
-                                            <div class="single-skill-bar">
-                                                <div class="row no-mg">
-                                                    <div class="col-xs-8 no-pd"><span class="skill-title">CSS3</span></div>
-                                                    <div class="col-xs-4 text-right no-pd"><span class="skill-percent">90%</span></div>
-                                                </div>
-                                                <div class="skill-bar">
-                                                    <div class="skill-bar-percent gradiant-background" style="width:90%"></div>
-                                                </div>
-                                            </div>
-                                            <div class="single-skill-bar">
-                                                <div class="row no-mg">
-                                                    <div class="col-xs-8 no-pd"><span class="skill-title">Java</span></div>
-                                                    <div class="col-xs-4 text-right no-pd"><span class="skill-percent">75%</span></div>
-                                                </div>
-                                                <div class="skill-bar">
-                                                    <div class="skill-bar-percent gradiant-background" style="width:75%"></div>
-                                                </div>
-                                            </div>
-                                            <div class="single-skill-bar">
-                                                <div class="row no-mg">
-                                                    <div class="col-xs-8 no-pd"><span class="skill-title">Node.js</span></div>
-                                                    <div class="col-xs-4 text-right no-pd"><span class="skill-percent">80%</span></div>
-                                                </div>
-                                                <div class="skill-bar">
-                                                    <div class="skill-bar-percent gradiant-background" style="width:80%"></div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
+                                        <h3 class="name">Anna Zvonikova</h3>
+                                        <p class="sub-title">Sales Manager</p>
+                                        <br><p>Our sales manager is responsible for carrying out the online sales of the products and services assigned by the client.</p>
+                                        <br><p>She is responsible for providing the database of the potential customers to the team members as well as that of the existing customers.</p>
+                                        <br><p>She prepares the sales targets for the team and makes sure that the strategies are designed in such a way, so as to achieve maximum sales by promoting the products well on the internet.</p>
                                 </div><!-- .col  -->
                             </div><!-- .row  -->
                         </div><!-- .container  -->
@@ -480,26 +305,50 @@
         <div class="section-head text-center">
             <div class="row">
                 <div class="col-md-8 col-md-offset-2">
-                    <h2 class="heading">Screenshots</h2>
-                    <p>Nam et sagittis diam. Sed tempor augue sit amet egestas scelerisque. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.</p>
+                    <h2 class="heading">Our Portfolio</h2>
+                    <p>We use modern frameworks on backend and frontend and make native mobile applications.</p>
+                    <p>So, if you need any kind of custom solution – our doors always open.</p>
                 </div>
             </div>
         </div><!-- .section-head  -->
-        <div class="row ">
-            <div class="col-md-12">
-                <div class="tab-fix">
-                    <div class="image-carousel has-carousel slide-screen iphonex owl-carousel owl-theme"  data-items="5" data-center="true" data-loop="true" data-auto="true" data-dots="true" data-navs="false">
-                        <div class="item"><img src="images/sc-1.jpg" alt="screenshoots" /></div>
-                        <div class="item"><img src="images/sc-2.jpg" alt="screenshoots" /></div>
-                        <div class="item"><img src="images/sc-3.jpg" alt="screenshoots" /></div>
-                        <div class="item"><img src="images/sc-4.jpg" alt="screenshoots" /></div>
-                        <div class="item"><img src="images/sc-5.jpg" alt="screenshoots" /></div>
-                        <div class="item"><img src="images/sc-6.jpg" alt="screenshoots" /></div>
-                        <div class="item"><img src="images/sc-2.jpg" alt="screenshoots" /></div>
-                    </div>
-                </div><!-- .col -->
-            </div><!-- .col -->
-        </div><!-- .row -->
+
+
+        <div id="myCarousel" class="carousel slide" data-ride="carousel">
+            <!-- Indicators -->
+            <ol class="carousel-indicators">
+                <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
+                <li data-target="#myCarousel" data-slide-to="1"></li>
+                <li data-target="#myCarousel" data-slide-to="2"></li>
+            </ol>
+
+            <!-- Wrapper for slides -->
+            <div class="carousel-inner">
+                <div class="item active">
+                    <img src="images/pf_1.png" class="center">
+                </div>
+
+                <div class="item">
+                    <img src="images/pf_2.jpg" class="center">
+                </div>
+
+                <div class="item">
+                    <img src="images/pf_3.jpg" class="center">
+                </div>
+            </div>
+
+            <!-- Left and right controls -->
+            <a class="left carousel-control" href="#myCarousel" data-slide="prev">
+                <span class="glyphicon glyphicon-chevron-left"></span>
+                <span class="sr-only">Previous</span>
+            </a>
+            <a class="right carousel-control" href="#myCarousel" data-slide="next">
+                <span class="glyphicon glyphicon-chevron-right"></span>
+                <span class="sr-only">Next</span>
+            </a>
+        </div>
+
+
+
     </div><!-- .container-fluid -->
 </div><!-- .screenshots-section  -->
 
@@ -515,7 +364,7 @@
             <div class="row">
                 <div class="col-md-8 col-md-offset-2">
                     <h2 class="heading">What our <span>client say !</span></h2>
-                    <p>Nam et sagittis diam. Sed tempor augue sit amet egestas scelerisque. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.</p>
+                    <p>We always go really deep to client's business and problems and advise with our<br>expertise to kill client's pains.</p>
                 </div>
             </div>
         </div><!-- .section-head  -->
@@ -525,18 +374,8 @@
                     <div class="item text-center">
                         <div class="quotes">
                             <img src="images/quote-icon.png" class="quote-icon" alt="quote-icon" />
-                            <blockquote>Nam et sagittis diam. Sed tempor augue sit amet egestas scelerisque. Orci varius natoque penatibus et magnis dis parturient montes nascetur.</blockquote>
-                            <h6>Andy Lovell</h6>
-                            <div class="client-image">
-                                <img src="images/client-1.jpg" alt="client" />
-                            </div>
-                        </div>
-                    </div>
-                    <div class="item text-center">
-                        <div class="quotes">
-                            <img src="images/quote-icon.png" class="quote-icon" alt="quote-icon" />
-                            <blockquote>Nam et sagittis diam. Sed tempor augue sit amet egestas scelerisque. Orci varius natoque penatibus et magnis dis parturient montes nascetur.</blockquote>
-                            <h6>Andy Lovell</h6>
+                            <blockquote>Expert with exceptional knowledge of programming. Can highly recommend.</blockquote>
+                            <h6>"nehlaw" from freelancer.com</h6>
                             <div class="client-image">
                                 <img src="images/client-2.jpg" alt="client" />
                             </div>
@@ -545,8 +384,18 @@
                     <div class="item text-center">
                         <div class="quotes">
                             <img src="images/quote-icon.png" class="quote-icon" alt="quote-icon" />
-                            <blockquote>Nam et sagittis diam. Sed tempor augue sit amet egestas scelerisque. Orci varius natoque penatibus et magnis dis parturient montes nascetur.</blockquote>
-                            <h6>Andy Lovell</h6>
+                            <blockquote>Bumeen Group does great work and I will continue working with them for future projects. They have fulfilled all of my needs thus far. Great communication and always on time.</blockquote>
+                            <h6>"harpzgrewal" from freelancer.com</h6>
+                            <div class="client-image">
+                                <img src="images/client-1.jpg" alt="client" />
+                            </div>
+                        </div>
+                    </div>
+                    <div class="item text-center">
+                        <div class="quotes">
+                            <img src="images/quote-icon.png" class="quote-icon" alt="quote-icon" />
+                            <blockquote>Working on a big project with Bumeen Group. Very good communication throughout the project.</blockquote>
+                            <h6>"harpzgrewal" from freelancer.com</h6>
                             <div class="client-image">
                                 <img src="images/client-1.jpg" alt="client" />
                             </div>
@@ -573,9 +422,8 @@
             <div class="col-md-6">
                 <div class="contact-form white-bg text-center">
                     <h3>Contact Us</h3>
-                    <p>Working contact form along send mail feature with contact form validation</p>
-                    <form id="contact-form" class="form-message" action="/contact" method="post">
-                        <div class="form-results"></div>
+                    <p>Do not hesitate to discuss your future projects right now!</p>
+                    <form id="contact-form" class="form-message" action="/contact/mail" method="post">
                         <div class="form-group row fix-gutter-10">
                             <div class="form-field col-sm-6 gutter-10 form-m-bttm">
                                 <input name="full_name" type="text" placeholder="Full Name *" class="form-control required">
@@ -597,7 +445,6 @@
                                 <textarea name="message" placeholder="Messages *" class="txtarea form-control required"></textarea>
                             </div>
                         </div>
-                        <input type="text" class="hidden" name="form-anti-honeypot" value="">
                         <button type="submit" class="button solid-btn sb-h">Submit</button>
                     </form>
                 </div>
@@ -625,31 +472,7 @@
 </div><!-- .contact-section  -->
 
 
-<!-- Start .footer-section  -->
-<div class="footer-section section">
-    <div class="container">
-        <div class="row text-center">
-            <div class="col-md-12">
-                <ul class="footer-navigation inline-list">
-                    <li><a class="nav-item" href="#home">Home</a></li>
-                    <li><a class="nav-item" href="#about">About</a></li>
-                    <li><a class="nav-item" href="#team">Team</a></li>
-                    <li><a class="nav-item" href="#screenshots">Screenshots</a></li>
-                    <li><a class="nav-item" href="#testimonial">Testimonial</a></li>
-                    <li><a class="nav-item" href="#contacts">Contacts</a></li>
-                </ul>
-                <ul class="social-list inline-list">
-                    <li><a href="#"><em class="fa fa-facebook"></em></a></li>
-                    <li><a href="#"><em class="fa fa-linkedin"></em></a></li>
-                    <li><a href="#"><em class="fa fa-google-plus"></em></a></li>
-                </ul>
-                <ul class="footer-links inline-list">
-                    <li>Copyright © 2018 BumeenGroup. All Rights Reserved.</li>
-                </ul>
-            </div><!-- .col  -->
-        </div><!-- .row  -->
-    </div><!-- .container  -->
-</div><!-- .footer-section  -->
+
 
 <!-- Preloader !remove please if you do not want -->
 <div id="preloader"><div id="status">&nbsp;</div></div>
@@ -667,4 +490,37 @@
 <script src="assets/js/script.js"></script>
 
 </body>
+<footer>
+    <div class="footer">
+    <div class="footer-section section">
+        <div class="container">
+            <div class="row text-center">
+                <div class="col-md-12">
+                    <ul class="footer-navigation inline-list">
+                        <li><a class="nav-item" href="#home">Home</a></li>
+                        <li><a class="nav-item" href="#about">About</a></li>
+                        <li><a class="nav-item" href="#team">Team</a></li>
+                        <li><a class="nav-item" href="#screenshots">Portfolio</a></li>
+                        <li><a class="nav-item" href="#testimonial">Testimonial</a></li>
+                        <li><a class="nav-item" href="#contacts">Contacts</a></li>
+                    </ul>
+                    <div class="container" align="center">
+                        <ul class="social-list inline-list">
+                            <li><a href="#"><em class="fa fa-facebook"></em></a></li>
+                            <li><a href="#"><em class="fa fa-google-plus"></em></a></li>
+                            <li><a href="#"><em class="fa fa-linkedin"></em></a></li>
+                        </ul>
+                    </div>
+                    <div class="container" align="center">
+                        <a href="/"><img src="images/logo3-white.png"></a>
+                    </div>
+                    <ul class="footer-links inline-list">
+                        <li>Copyright © 2018 BumeenGroup. All Rights Reserved.</li>
+                    </ul>
+                </div><!-- .col  -->
+            </div><!-- .row  -->
+        </div><!-- .container  -->
+    </div><!-- .footer-section  -->
+    </div>
+</footer>
 </html>

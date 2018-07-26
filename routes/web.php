@@ -16,6 +16,7 @@ $router->get('/', function () use ($router) {
 });
 
 $router->post('/contact', 'ContactController@contact');
+$router->post('/contact/mail', 'ContactController@mail');
 $router->get('/lol', function () {
     return 'lol';
 });

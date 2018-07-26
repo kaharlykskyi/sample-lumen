@@ -129,7 +129,7 @@
 	}
 
 	// FORMS
-	var quoteForm = $('#contact-form');
+	/*var quoteForm = $('#contact-form');
 	if (quoteForm.length > 0) {
 	  if( !$().validate || !$().ajaxSubmit ) {
 		  console.log('quoteForm: jQuery Form or Form Validate not Defined.');
@@ -155,7 +155,7 @@
 		  });
 		  selectRec.on('change', function() { $(this).valid(); });
 	  }
-	}
+	}*/
 	
 	// Preloader
 	var $preload = $('#preloader');

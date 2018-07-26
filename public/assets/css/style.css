@@ -2351,6 +2351,12 @@ label.error {
 	left:0;
 }
 
+/*MyCarousel*/
+.myCarousel {
+	hight: 700px;
+	weight: 500px;
+}
+
 /* @v110 Start*/
 .software-screens{
 	margin-bottom: -40px;
@@ -2612,8 +2618,8 @@ label.error {
 	opacity:.7;
 }
 .team-photo img{
-	-webkit-filter: grayscale(100%);
-    filter: grayscale(100%);
+	-webkit-filter: grayscale(0);
+    filter: grayscale(0);
 }
 .expand-trigger{
 	position:absolute;
@@ -2776,6 +2782,13 @@ label.error {
 	border-radius:50%;
 }
 
+.center {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 50%;
+}
+
 /* 14. Contact Section*/
 .contact-form{
 	height: 494px;
@@ -2826,6 +2839,11 @@ label.error {
 }
 
 /* 15. Footer Section*/
+.footer {
+	margin-top: -100px;
+	height: 160px;
+}
+
 .footer-section{
 	background:#404040;
 	padding:60px 0;

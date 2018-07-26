@@ -36,4 +36,29 @@ class ContactController extends Controller
         }
         return $msg;
     }
+    
+    public function mail(Request $request)
+    {
+        $email = $request->input('email');
+        $full_name = $request->input('full_name');
+        $number = $request->input('number');
+        $subject = $request->input('subject');
+        $message = $request->input('message');
+
+        $mesage = "Message from " . $full_name . " Number: " . $number . " Message: " .$message;
+        /*if(mail('mishakagar@gmail.com', $subject, $message)) {
+            return redirect('http://bumeengroup.com/');
+        }*/
+
+        $to      = 'mishakagar@gmail.com';
+        $headers = 'From: ' . $email . "\r\n" .
+            'Reply-To: ' . $email . "\r\n" .
+            'X-Mailer: PHP/' . phpversion();
+
+        if(mail($to, $subject, $message, $headers)) {
+            return "ok";
+        }
+
+         dd(error_get_last());;
+    }
 }

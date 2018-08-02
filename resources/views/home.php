@@ -3,7 +3,7 @@
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="AppsLand is a powerful App Landing HTML Template with full of customization options and features">
+    <meta name="description" content="Bumeen Group is a web & mobile development company based in Kyiv, Ukraine. The company was founded in 2016. We strive to provide customer relations and technical perfection while understanding the value of our client, software product requirements and a way to implement it.">
     <!-- Fav Icon  -->
     <link rel="shortcut icon" href="images/favicon.png">
     <!-- Site Title  -->

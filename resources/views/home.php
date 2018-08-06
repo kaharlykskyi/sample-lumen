@@ -169,7 +169,7 @@
                     </div>
                     <div class="team-info">
                         <h4 class="name">Sergey Goreliy</h4>
-                        <p class="sub-title">CEO</p>
+                        <p class="sub-title">CEO, Co-Founder</p>
                     </div>
                     <!-- Start .team-profile  -->
                     <div id="team-profile-1" class="team-profile mfp-hide">
@@ -184,7 +184,7 @@
                                 <div class="col-md-6">
                                     <div class="team-profile-info">
                                         <h3 class="name">Sergey Goreliy</h3>
-                                        <p class="sub-title">Chief Executive Officer</p>
+                                        <p class="sub-title">Chief Executive Officer, Co-Founder</p>
                                         <br><p>Developing high quality business strategies and plans ensuring their alignment with short-term and long-term objectives.</p>
                                         <br><p>Leading and motivating subordinates to advance employee engagement develop a high performing managerial team.</p>
                                         <br><p>Overseeing all operations and business activities to ensure they produce the desired results and are consistent with the overall strategy and mission.</p>
@@ -203,7 +203,7 @@
                     </div>
                     <div class="team-info">
                         <h4 class="name">Mike Kaharlykskyi</h4>
-                        <p class="sub-title">CTO</p>
+                        <p class="sub-title">CTO, Co-Founder</p>
                     </div>
                     <!-- Start .team-profile  -->
                     <div id="team-profile-2" class="team-profile mfp-hide">
@@ -218,7 +218,7 @@
                                 <div class="col-md-6">
                                     <div class="team-profile-info">
                                         <h3 class="name">Mike Kaharlykskyi</h3>
-                                        <p class="sub-title">Chief Technical Officer</p>
+                                        <p class="sub-title">Chief Technical Officer, Co-Founder</p>
                                         <br><p>Work with the CEO and other executives to develop a technical strategy for the company.</p>
                                         <br><p>Aids recruitment and retention efforts, streamlines production operations, and advocates for innovative ideas, high production, and individual on the team.</p>
                                         <br><p>Maximizes the efficiency of production efforts by coordinating the various teams and operations involved in the process and ensuring there is no overlap.</p>

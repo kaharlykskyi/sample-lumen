@@ -141,7 +141,7 @@
                 <div class="video wow fadeInRight" data-wow-duration=".5s">
                     <img src="images/about-video.jpg" alt="about-video" />
                     <div class="video-overlay gradiant-background"></div>
-                    <a href="https://www.youtube.com/watch?v=Sagg08DrO5U" class="video-play" data-effect="mfp-3d-unfold"><i class="fa fa-play"></i></a>
+                    <a href="https://www.youtube.com/watch?v=g13dSerjICk" class="video-play" data-effect="mfp-3d-unfold"><i class="fa fa-play"></i></a>
                 </div>
             </div><!-- .col -->
         </div><!-- .row -->

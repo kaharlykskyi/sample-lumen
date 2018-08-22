@@ -198,11 +198,11 @@
             <div class="col-md-3 col-sm-6">
                 <div class="team-member">
                     <div class="team-photo">
-                        <img src="images/mike.jpeg" style="height: 263px;" alt="team" />
+                        <img src="images/viktor.png" style="height: 263px;" alt="team" />
                         <a href="#team-profile-2" class="expand-trigger content-popup"><span class="ti ti-plus"></span></a>
                     </div>
                     <div class="team-info">
-                        <h4 class="name">Mike Kaharlykskyi</h4>
+                        <h4 class="name">Viktor Garkusha</h4>
                         <p class="sub-title">CTO, Co-Founder</p>
                     </div>
                     <!-- Start .team-profile  -->
@@ -212,12 +212,12 @@
                             <div class="row no-mg">
                                 <div class="col-md-6">
                                     <div class="team-profile-photo">
-                                        <img src="images/mike.jpeg" alt="team" />
+                                        <img src="images/viktor.png" alt="team" />
                                     </div>
                                 </div><!-- .col  -->
                                 <div class="col-md-6">
                                     <div class="team-profile-info">
-                                        <h3 class="name">Mike Kaharlykskyi</h3>
+                                        <h3 class="name">Viktor Garkusha</h3>
                                         <p class="sub-title">Chief Technical Officer, Co-Founder</p>
                                         <br><p>Work with the CEO and other executives to develop a technical strategy for the company.</p>
                                         <br><p>Aids recruitment and retention efforts, streamlines production operations, and advocates for innovative ideas, high production, and individual on the team.</p>

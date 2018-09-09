@@ -3052,6 +3052,9 @@ label.error {
 	.single-contact{
 		padding: 25px 0;
 	}
+	.team-photo > img {
+		height: auto !important;
+	}
 }
 @media only screen and (max-width: 479px) {
 	.steps-screen{

@@ -469,7 +469,7 @@
                         </div>
                         <div class="form-group row">
                             <div class="form-field col-md-12">
-                                <textarea name="message" placeholder="Messages *" class="txtarea form-control required"></textarea>
+                                <textarea name="message" rows="12" placeholder="Messages *" class="txtarea form-control required"></textarea>
                             </div>
                         </div>
                         <button type="submit" class="button solid-btn sb-h">Submit</button>
@@ -506,7 +506,7 @@
 <!-- Preloader End -->
 
 <!-- Google Map Script -->
-<script src="https://maps.google.com/maps/api/js?key=AIzaSyD6cxB4idvB67_Mz1ScQn-_nBJmltUaS-g"></script>
+<script src="https://maps.google.com/maps/api/js?key=AIzaSyDNgBCr5HBbzH_a54lwDqraGiUmGoHjYlY"></script>
 <script src="assets/js/googleMap.js"></script>
 
 <!-- JavaScript
@@ -542,7 +542,7 @@
                         <a href="/"><img src="images/logo3-white.png"></a>
                     </div>
                     <ul class="footer-links inline-list">
-                        <li>Copyright © 2018 BumeenGroup. All Rights Reserved.</li>
+                        <li>Copyright © 2017 BumeenGroup. All Rights Reserved.</li>
                     </ul>
                 </div><!-- .col  -->
             </div><!-- .row  -->

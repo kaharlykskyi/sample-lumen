@@ -324,8 +324,11 @@
             </ol>
 
             <!-- Wrapper for slides -->
-            <div class="carousel-inner">
+            <div class="carousel-inner" >
                 <div class="item active">
+                    <img src="images/fuse.png" class="center" style="min-height: 242px">
+                </div>
+                <div class="item">
                     <img src="images/pf_1.png" class="center">
                 </div>
                 <div class="item">
@@ -371,13 +374,47 @@
                 <div class="col-md-8 col-md-offset-2">
                     <h2 class="heading">What our <span>client say !</span></h2>
                     <p>We always go really deep to client's business and problems and advise with our<br>expertise to kill client's pains.</p>
-                    <p>More reviews you can find <a href="https://www.freelancer.com.ru/u/bumeengroup#/reviews" target="_blank">here</a></p>
+                    <p>More reviews you can find on <a href="https://www.freelancer.com.ru/u/bumeengroup#/reviews" target="_blank">Freelaner</a> and <a href="https://www.upwork.com/freelancers/~010e914b0a0c24ae7a" target="_blank">Upwork</a> profiles.</p>
                 </div>
             </div>
         </div><!-- .section-head  -->
         <div class="row">
             <div class="col-md-10 col-md-offset-1">
                 <div class="testimonial-carousel has-carousel" data-items="2" data-loop="true" data-dots="true" data-auto="true" data-navs="false">
+                    <div class="item text-center">
+                        <div class="quotes">
+                            <img src="images/quote-icon.png" class="quote-icon" alt="quote-icon" />
+                            <blockquote>Incredibly workers. I loved seeing that he had a notification of a message from him, I knew that they would surprise me with something, and even so, they managed to surprise me with their good work. Recommended. <br> Test server:
+                                <a href="http://wow.esports.staging.bumeengroup.com/" target="_blank">http://wow.esports.staging.bumeengroup.com/</a></blockquote>
+                            <h6>"Salvador" from upwork.com</h6>
+                            <div class="client-image">
+                                <img src="images/client-1.jpg" alt="client" />
+                            </div>
+                        </div>
+                    </div>
+                    <div class="item text-center">
+                        <div class="quotes">
+                            <img src="images/quote-icon.png" class="quote-icon" alt="quote-icon" />
+                            <blockquote>Was very responsive. Was following deadlines. He did best quality work in time. Will definitely work with them again.
+                                I know why Ukrainian coders have a good reputation now :) <br> Live website:
+                                <a href="http://www.ninjafuse.org/" target="_blank">http://www.ninjafuse.org/</a></blockquote>
+                            <h6>"Gokhan" from upwork.com</h6>
+                            <div class="client-image">
+                                <img src="images/client-1.jpg" alt="client" />
+                            </div>
+                        </div>
+                    </div>
+                    <div class="item text-center">
+                        <div class="quotes">
+                            <img src="images/quote-icon.png" class="quote-icon" alt="quote-icon" />
+                            <blockquote>Work with him again and probably next time too, Highly recommended! <br> Live website:
+                                <a href="http://www.ninjafuse.org/" target="_blank">http://www.ninjafuse.org/</a></blockquote>
+                            <h6>"Gokhan" from upwork.com</h6>
+                            <div class="client-image">
+                                <img src="images/client-1.jpg" alt="client" />
+                            </div>
+                        </div>
+                    </div>
                     <div class="item text-center">
                         <div class="quotes">
                             <img src="images/quote-icon.png" class="quote-icon" alt="quote-icon" />
@@ -446,54 +483,34 @@
             </div>
         </div>
         <div class="row">
-            <div class="col-md-6">
-                <div class="contact-form white-bg text-center">
-                    <h3>Contact Us</h3>
-                    <p>Do not hesitate to discuss your future projects right now!</p>
-                    <form id="contact-form" class="form-message" action="/contact/mail" method="post">
-                        <div class="form-group row fix-gutter-10">
-                            <div class="form-field col-sm-6 gutter-10 form-m-bttm">
-                                <input name="full_name" type="text" placeholder="Full Name *" class="form-control required">
-                            </div>
-                            <div class="form-field col-sm-6 gutter-10">
-                                <input name="email" type="email" placeholder="Email *" class="form-control required email">
-                            </div>
-                        </div>
-                        <div class="form-group row fix-gutter-10">
-                            <div class="form-field col-md-6 gutter-10 form-m-bttm">
-                                <input name="number" type="text" placeholder="Phone Number *" class="form-control required">
-                            </div>
-                            <div class="form-field col-md-6 gutter-10">
-                                <input name="subject" type="text" placeholder="Subject *" class="form-control required">
-                            </div>
-                        </div>
-                        <div class="form-group row">
-                            <div class="form-field col-md-12">
-                                <textarea name="message" rows="12" placeholder="Messages *" class="txtarea form-control required"></textarea>
-                            </div>
-                        </div>
-                        <button type="submit" class="button solid-btn sb-h">Submit</button>
-                    </form>
-                </div>
-            </div><!-- .col  -->
-            <div class="col-md-6">
-                <div class="contact-info white-bg">
+            <div class="col-md-8 col-md-offset-2">
+                <div class="contact-info white-bg text-center">
                     <div class="row">
-                        <div class="col-sm-7">
-                            <h6><em class="fa fa-chrome"></em> <a href="https://bumeengroup.com">https://bumeengroup.com</a></h6>
+                        <div class="col-md-6">
+                            <div class="row">
+                                <div class="col-sm-12">
+                                    <h6><em class="fa fa-chrome"></em> <a href="https://bumeengroup.com">https://bumeengroup.com</a></h6>
+                                </div>
+                                <div class="col-sm-12">
+                                    <h6><em class="fa fa-skype"></em> <a href="skype:sergey960401?chat">Chat on Skype</a></h6>
+                                </div>
+                            </div>
                         </div>
-                        <div class="col-sm-7">
-                            <h6><em class="fa fa-phone"></em> +38 (095) 286-99-02</h6>
-                        </div>
-                    </div>
-                    <div class="row">
-                        <div class="col-sm-12">
-                            <h6><em class="fa fa-map-marker"></em> Ukraine, Kyiv</h6>
+                        <div class="col-md-6">
+                            <div class="row">
+                                <div class="col-sm-12">
+                                    <h6><em class="fa fa-map-marker"></em> Ukraine, Kyiv</h6>
+                                </div>
+                                <div class="col-sm-12">
+                                    <h6><em class="fa fa-envelope-open-o"></em> <a href="mailto:dev.bumeen.group@gmail.com">Send us email</a></h6>
+                                </div>
+                            </div>
                         </div>
                     </div>
                 </div>
                 <div id="gMap" class="google-map"></div>
             </div><!-- .col  -->
+            <div style="margin-bottom: 20px"></div>
         </div><!-- .row  -->
     </div><!-- .container  -->
 </div><!-- .contact-section  -->
@@ -518,7 +535,7 @@
 
 </body>
 <footer>
-    <div class="footer">
+    <div class="footer" style="margin-top: 0;">
     <div class="footer-section section">
         <div class="container">
             <div class="row text-center">
@@ -531,18 +548,12 @@
                         <li><a class="nav-item" href="#testimonial">Testimonial</a></li>
                         <li><a class="nav-item" href="#contacts">Contacts</a></li>
                     </ul>
-                    <div class="container" align="center">
-                        <ul class="social-list inline-list">
-                            <li><a href="#"><em class="fa fa-facebook"></em></a></li>
-                            <li><a href="#"><em class="fa fa-google-plus"></em></a></li>
-                            <li><a href="#"><em class="fa fa-linkedin"></em></a></li>
-                        </ul>
-                    </div>
+
                     <div class="container" align="center">
                         <a href="/"><img src="images/logo3-white.png"></a>
                     </div>
                     <ul class="footer-links inline-list">
-                        <li>Copyright © 2017 BumeenGroup. All Rights Reserved.</li>
+                        <li>Copyright © 2016 BumeenGroup. All Rights Reserved.</li>
                     </ul>
                 </div><!-- .col  -->
             </div><!-- .row  -->

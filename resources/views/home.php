@@ -374,7 +374,7 @@
                 <div class="col-md-8 col-md-offset-2">
                     <h2 class="heading">What our <span>client say !</span></h2>
                     <p>We always go really deep to client's business and problems and advise with our<br>expertise to kill client's pains.</p>
-                    <p>More reviews you can find on <a href="https://www.freelancer.com.ru/u/bumeengroup#/reviews" target="_blank">Freelaner</a> and <a href="https://www.upwork.com/freelancers/~010e914b0a0c24ae7a" target="_blank">Upwork</a> profiles.</p>
+                    <p>More reviews you can find on <a href="https://www.freelancer.com.ru/u/bumeengroup#/reviews" target="_blank">Freelaner</a>  profile.</p>
                 </div>
             </div>
         </div><!-- .section-head  -->

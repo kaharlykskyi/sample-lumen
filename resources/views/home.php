@@ -420,9 +420,9 @@
         <div class="section-head text-center">
             <div class="row">
                 <div class="col-md-8 col-md-offset-2">
-                    <h2 class="heading">What our <span>client say !</span></h2>
+                    <h2 class="heading">What our <span>clients say</span></h2>
                     <p>We always go really deep to client's business and problems and advise with our<br>expertise to kill client's pains.</p>
-                    <p>More reviews you can find on <a href="https://www.freelancer.com.ru/u/bumeengroup#/reviews" target="_blank">Freelaner</a>  profile.</p>
+                    <p>You can find more reviews on <a href="https://www.freelancer.com.ru/u/bumeengroup#/reviews" target="_blank">Freelancer</a> profile.</p>
                 </div>
             </div>
         </div><!-- .section-head  -->

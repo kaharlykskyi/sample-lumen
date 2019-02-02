@@ -222,7 +222,7 @@ h6,.h6{
 }
 
 p.lead{
-	font-size:1.375em;
+	font-size:1.1em;
 	line-height:1.7;
 }
 blockquote{
@@ -449,8 +449,8 @@ label.error {
 .bg-gradiant.mfp-bg,
 .gradiant-background{
 	background-color: #35096b;
-	background-image: -o-linear-gradient(157deg, #ed355b 0%, #1f65db 100%);
-	background-image: linear-gradient(293deg, #ed355b 0%, #1f65db 100%);
+	background-image: -o-linear-gradient(293deg, #00082e 0%, #468afe 100%);
+	background-image: linear-gradient(293deg, #00082e 0%, #468afe 100%);
 }
 .gradiant-overlay{
 	position:absolute;
@@ -2673,6 +2673,7 @@ label.error {
 	padding: 50px 35px;
 	background: #fff;
 	position: relative;
+	border-radius: 5px;
 }
 .team-profile-photo img{
 	min-width:100%;
@@ -2803,7 +2804,7 @@ label.error {
 }
 
 .contact-info{
-	border-radius:8px 8px 0 0;
+	border-radius: 8px;
 }
 .contact-info{
 	padding:30px 40px;
@@ -3067,6 +3068,9 @@ label.error {
 	}
 	.steps-section .nav-tabs {
 		margin-bottom: 15px;
+	}
+	.mobile-hidden {
+		display: none;
 	}
 }
 /* End */

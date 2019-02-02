@@ -59,8 +59,8 @@ Updated	 :	01.19.2018
 	background: #1F65DB;
 }
 .header-texts .button{
-	background: #FA3821;
-	color: #fff;
+	background: #ffffff;
+	color: #09194e;
 }
 .header-texts .button:hover {
 	background: #fff;
@@ -93,8 +93,8 @@ Updated	 :	01.19.2018
 .gradiant-background,
 .box-icon,
 .team-member .team-photo:after{
-	background-image: -o-linear-gradient(157deg, #ED355B 0%, #1F65DB 100%);
-	background-image: linear-gradient(293deg, #ED355B 0%, #1F65DB 100%);
+	background-image: -o-linear-gradient(293deg, #00082e 0%, #468afe 100%);
+	background-image: linear-gradient(293deg, #00082e 0%, #468afe 100%);
 }
 
 @media only screen and (max-width: 991px) {

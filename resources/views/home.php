@@ -131,6 +131,23 @@
             </div>
         </div>
     </div>
+    <div class="team-contact-section section gradiant-background pb-90">
+        <div class="container">
+            <div class="section-head text-center">
+                <div class="row">
+                    <div class="col-md-8 col-md-offset-2">
+                        <h2 class="heading white-text" style="margin-bottom: 40px"><?=trans('words.numbers.title')?></h2>
+                    </div>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-xs-12 col-sm-5 col-sm-offset-1 col-md-3 col-md-offset-0"><div class="site-number"><div class="stat-icon"><svg aria-hidden="true" data-prefix="fas" data-icon="users" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 512" class="svg-inline--fa fa-users fa-w-20 fa-3x" style="color: white;"><path data-v-27685602="" fill="currentColor" d="M96 224c35.3 0 64-28.7 64-64s-28.7-64-64-64-64 28.7-64 64 28.7 64 64 64zm448 0c35.3 0 64-28.7 64-64s-28.7-64-64-64-64 28.7-64 64 28.7 64 64 64zm32 32h-64c-17.6 0-33.5 7.1-45.1 18.6 40.3 22.1 68.9 62 75.1 109.4h66c17.7 0 32-14.3 32-32v-32c0-35.3-28.7-64-64-64zm-256 0c61.9 0 112-50.1 112-112S381.9 32 320 32 208 82.1 208 144s50.1 112 112 112zm76.8 32h-8.3c-20.8 10-43.9 16-68.5 16s-47.6-6-68.5-16h-8.3C179.6 288 128 339.6 128 403.2V432c0 26.5 21.5 48 48 48h288c26.5 0 48-21.5 48-48v-28.8c0-63.6-51.6-115.2-115.2-115.2zm-223.7-13.4C161.5 263.1 145.6 256 128 256H64c-35.3 0-64 28.7-64 64v32c0 17.7 14.3 32 32 32h65.9c6.3-47.4 34.9-87.3 75.2-109.4z"></path></svg></div><h5 class="counter-count">10<span></span></h5><p><?=trans('words.numbers.team')?></p></div></div>
+                <div class="col-xs-12 col-sm-5 col-sm-offset-1 col-md-3 col-md-offset-0"><div class="site-number"><div class="stat-icon"><svg aria-hidden="true" data-prefix="fas" data-icon="check" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" class="svg-inline--fa fa-check fa-w-16 fa-3x" style="color: white;"><path data-v-27685602="" fill="currentColor" d="M173.898 439.404l-166.4-166.4c-9.997-9.997-9.997-26.206 0-36.204l36.203-36.204c9.997-9.998 26.207-9.998 36.204 0L192 312.69 432.095 72.596c9.997-9.997 26.207-9.997 36.204 0l36.203 36.204c9.997 9.997 9.997 26.206 0 36.204l-294.4 294.401c-9.998 9.997-26.207 9.997-36.204-.001z"></path></svg></div><h5 class="counter-count">15<span></span>+</h5><p><?=trans('words.numbers.projects')?></p></div></div>
+                <div class="col-xs-12 col-sm-5 col-sm-offset-1 col-md-3 col-md-offset-0"><div class="site-number"><div class="stat-icon"><svg data-v-27685602="" aria-hidden="true" data-prefix="fas" data-icon="clock" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" class="svg-inline--fa fa-clock fa-w-16 fa-3x" style="color: white;"><path data-v-27685602="" fill="currentColor" d="M256 8C119 8 8 119 8 256s111 248 248 248 248-111 248-248S393 8 256 8zm57.1 350.1L224.9 294c-3.1-2.3-4.9-5.9-4.9-9.7V116c0-6.6 5.4-12 12-12h48c6.6 0 12 5.4 12 12v137.7l63.5 46.2c5.4 3.9 6.5 11.4 2.6 16.8l-28.2 38.8c-3.9 5.3-11.4 6.5-16.8 2.6z" class=""></path></svg></div><h5 class="counter-count">2016<span></span>+</h5><p><?=trans('words.numbers.founded')?></p></div></div>
+                <div class="col-xs-12 col-sm-5 col-sm-offset-1 col-md-3 col-md-offset-0"><div class="site-number"><div class="stat-icon"><svg data-v-27685602="" aria-hidden="true" data-prefix="fas" data-icon="smile" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 496 512" class="svg-inline--fa fa-smile fa-w-16 fa-3x" style="color: white;"><path data-v-27685602="" fill="currentColor" d="M248 8C111 8 0 119 0 256s111 248 248 248 248-111 248-248S385 8 248 8zm80 168c17.7 0 32 14.3 32 32s-14.3 32-32 32-32-14.3-32-32 14.3-32 32-32zm-160 0c17.7 0 32 14.3 32 32s-14.3 32-32 32-32-14.3-32-32 14.3-32 32-32zm194.8 170.2C334.3 380.4 292.5 400 248 400s-86.3-19.6-114.8-53.8c-5.7-6.8-4.7-16.9 2-22.5 6.8-5.7 16.9-4.7 22.5 2 22.4 26.9 55.2 42.2 90.2 42.2s67.8-15.4 90.2-42.2c5.7-6.8 15.7-7.7 22.5-2 6.9 5.7 7.8 15.8 2.2 22.5z" class=""></path></svg></div><h5 class="counter-count">97%<span></span></h5><p><?=trans('words.numbers.clients')?></p></div></div>
+            </div>
+        </div>
+    </div>
     <div id="technologies" class="about-section section pb-90 white-bg mobile-hidden">
         <div class="container tab-fix">
             <div class="section-head text-center">

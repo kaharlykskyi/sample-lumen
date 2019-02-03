@@ -27,6 +27,13 @@ return [
         'p1' => "<strong>Bumeen Group</strong> is a web & mobile development company based in Kyiv, Ukraine. The company was founded in 2016. We strive to provide customer relations and technical perfection while understanding the value of our client, software product requirements and a way to implement it.",
         'p2' => "We're a full-cycle team of experienced web developers. We are very interested in developing your project and will be glad to assist you. We provide the whole package: project manager, front-end developer, back-end developer and of course, quality assurance specialists.",
     ],
+    'numbers' => [
+        'title' => "<strong>Bumeen Group</strong> in numbers",
+        'team' => "Team members",
+        'projects' => "Projects delivered",
+        'founded' => "Founded",
+        'clients' => "Clients satisfaction",
+    ],
     'technologies' => [
         'title' => "<strong><span>Technologies</span></strong> we use",
     ],

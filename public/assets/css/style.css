@@ -3182,4 +3182,33 @@ label.error {
 a.language {
 	color: #383838;
 }
+svg {
+	width: 1.25em;
+}
+.site-number {
+	float: left;
+	width: 100%;
+	text-align: center;
+}
+.site-number h5, .site-number p {
+	float: left;
+	text-align: center;
+	color: #fff;
+	clear: both;
+	width: 100%;
+}
+.site-number h5 {
+	font-size: 50px;
+	font-weight: 700;
+	line-height: 2;
+	margin-top: -5px;
+	margin-bottom: 0;
+}
+.site-number p {
+	font-size: 18px;
+	font-weight: 600;
+}
+.stat-icon {
+	min-height: 67px;
+}
 /* End */

@@ -14,9 +14,7 @@
 $router->get('/', function () use ($router) {
     return view('home');
 });
-
-$router->post('/contact', 'ContactController@contact');
-$router->post('/contact/mail', 'ContactController@mail');
-$router->get('/lol', function () {
-    return 'lol';
+$router->get('/{locale}', function ($locale) use ($router) {
+    app('translator')->setLocale($locale);
+    return view('home');
 });

@@ -3174,10 +3174,12 @@ label.error {
 .is-transparent .navbar-default .navbar-nav > li span, .is-transparent .navbar-default .navbar-nav > li i {
 	color: #fff;
 	font-weight: 400;
+	font-size: 15px;
 }
 .affix .navbar-default .navbar-nav > li span, .affix .navbar-default .navbar-nav > li i {
 	color: #333;
 	font-weight: 400;
+	font-size: 15px;
 }
 a.language {
 	color: #383838;

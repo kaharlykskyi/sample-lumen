@@ -14,7 +14,7 @@
     <link rel="shortcut icon" href="images/faviconlogo.png">
     <title><?=trans('words.title')?></title>
     <link rel="stylesheet" href="assets/css/vendor.bundle-v1.css">
-    <link href="assets/css/style-v1.css" rel="stylesheet">
+    <link href="assets/css/style-v1.1.css" rel="stylesheet">
     <link href="assets/css/theme-v1.css" rel="stylesheet">
 </head>
 <body>

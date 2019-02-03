@@ -161,9 +161,9 @@
 	var $preload = $('#preloader');
 	if ($preload.length > 0) {
 		$(window).on('load', function() {
-		  $preload.children().fadeOut(100);
-		  $preload.delay(100).fadeOut(100);
-		  $('body').delay(100).css({'overflow':'visible'});
+		  $preload.children().fadeOut(50);
+		  $preload.delay(50).fadeOut(50);
+		  $('body').delay(50).css({'overflow':'visible'});
 		});
 	}
 	

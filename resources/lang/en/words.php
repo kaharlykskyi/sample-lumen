@@ -5,6 +5,7 @@ return [
     'menu' => [
         'home' => 'Home',
         'about' => 'About',
+        'ask' => 'Contact us',
         'technologies' => 'Technologies',
         'team' => 'Team',
         'portfolio' => 'Portfolio',
@@ -22,6 +23,27 @@ return [
         'startups' => 'Startups',
         'mobile-applications' => 'Mobile Applications',
     ],
+    'ask' => [
+        'title' => 'Contact us',
+        'full_name' => 'Full name',
+        'enter_your_name' => 'Enter your name',
+        'validate_enter_your_name' => 'Please enter your name',
+        'email' => 'Email',
+        'enter_your_email' => 'Enter your email',
+        'validate_enter_your_email' => 'Please enter your email',
+        'phone' => 'Phone',
+        'enter_your_phone' => 'Enter your phone',
+        'needed_services' => 'Needed services',
+        'please_choose' => 'Please choose',
+        'web_development' => 'Web development',
+        'mobile_development' => 'Mobile app development',
+        'design' => 'UI/UX Design',
+        'other' => 'Other',
+        'budget' => 'Project budget',
+        'message' => 'Message',
+        'validate_message' => 'Please type message',
+        'send' => 'Submit',
+    ],
     'about' => [
         'title' => "About <span><strong>Bumeen Group</strong></span>",
         'p1' => "<strong>Bumeen Group</strong> is a web & mobile development company based in Kyiv, Ukraine. The company was founded in 2016. We strive to provide customer relations and technical perfection while understanding the value of our client, software product requirements and a way to implement it.",
@@ -38,7 +60,7 @@ return [
         'title' => "<strong><span>Technologies</span></strong> we use",
     ],
     'team' => [
-        'title' => "Our <span class='white-text'>Team</span>",
+        'title' => "Our <span class='white-text'>team</span>",
         'text' => "Our dedicated team includes full-time experts in website and application developing. We are passionate about website development, and our staff has more than 10 years of combined experience in website design, website development, mobile applications development.",
         'sergey' => [
             'name' => 'Sergey Goreliy',
@@ -65,7 +87,7 @@ return [
         ],
     ],
     'portfolio' => [
-        'title' => 'Our Portfolio',
+        'title' => 'Our portfolio',
         'p1' => 'We use modern frameworks on backend and frontend and make native mobile applications.',
         'p2' => 'So, if you need any kind of custom solution – our doors always open.',
     ],

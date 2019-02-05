@@ -18,3 +18,4 @@ $router->get('/{locale}', function ($locale) use ($router) {
     app('translator')->setLocale($locale);
     return view('home');
 });
+$router->post('/contact', ['uses' => 'ContactController@contact']);

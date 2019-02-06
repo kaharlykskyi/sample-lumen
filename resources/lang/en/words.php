@@ -55,7 +55,7 @@ return [
         'title' => "<strong><span>Technologies</span></strong> we use",
     ],
     'team' => [
-        'title' => "Our <span class='white-text'>team</span>",
+        'title' => "Executive  team <span class='white-text'>members</span>",
         'text' => "Our team includes competent professionals in website and application development, each of whom has more than 5 years of experience in website design, website development and mobile applications development.",
         'sergey' => [
             'name' => 'Sergey Goreliy',
@@ -87,9 +87,9 @@ return [
         ],
     ],
     'portfolio' => [
-        'title' => 'Our portfolio',
+        'title' => 'Last projects',
         'p1' => 'We use modern frameworks on backend and frontend and make native mobile applications.',
-        'p2' => 'So, if you need any kind of custom solution – our doors always open.',
+        'p2' => 'We guarantee quality, so we provide 14 days of free support after the release of your live project.',
     ],
     'testimonial' => [
         'title' => "What our <span>clients say</span>",

@@ -289,7 +289,7 @@
             <div class="section-head text-center">
                 <div class="row">
                     <div class="col-md-8 col-md-offset-2">
-                        <h2 class="heading white-text"><?=trans('words.team.title')?></h2>
+                        <h2 class="heading pb-10 white-text"><?=trans('words.team.title')?></h2>
                         <p class="white-text" style="font-size: 15px;"><?=trans('words.team.text')?></p>
                     </div>
                 </div>
@@ -432,7 +432,6 @@
             </div>
         </div>
     </div>
-
     <div id="screenshots" class="screenshots-section section pb-120 white-bg">
         <div class="container">
             <div class="section-head text-center">
@@ -447,57 +446,6 @@
             <div id="elastic_grid_demo"></div>
         </div>
     </div>
-
-    <!--<div id="screenshots" class="screenshots-section section pb-120 white-bg">
-        <div class="container">
-            <div class="section-head text-center">
-                <div class="row">
-                    <div class="col-md-8 col-md-offset-2">
-                        <h2 class="heading"><?/*=trans('words.portfolio.title')*/?></h2>
-                        <p><?/*=trans('words.portfolio.p1')*/?></p>
-                        <p><?/*=trans('words.portfolio.p2')*/?></p>
-                    </div>
-                </div>
-            </div>
-            <div id="myCarousel" class="carousel slide" data-ride="carousel">
-                <ol class="carousel-indicators">
-                    <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
-                    <li data-target="#myCarousel" data-slide-to="1"></li>
-                    <li data-target="#myCarousel" data-slide-to="2"></li>
-                    <li data-target="#myCarousel" data-slide-to="3"></li>
-                    <li data-target="#myCarousel" data-slide-to="4"></li>
-                </ol>
-                <div class="carousel-inner" >
-                    <div class="item active">
-                        <img src="images/fuse.png" class="center" style="min-height: 242px">
-                    </div>
-                    <div class="item">
-                        <img src="images/pf_1.png" class="center">
-                    </div>
-                    <div class="item">
-                        <img src="images/pf_2.jpg" class="center">
-                    </div>
-                    <div class="item">
-                        <img src="images/pf_3.jpg" class="center">
-                    </div>
-                    <div class="item">
-                        <img src="images/pf_4.png" class="center">
-                    </div>
-                    <div class="item">
-                        <img src="images/pf_5.png" class="center">
-                    </div>
-                </div>
-                <a class="left carousel-control" href="#myCarousel" data-slide="prev">
-                    <span class="glyphicon glyphicon-chevron-left"></span>
-                    <span class="sr-only">Previous</span>
-                </a>
-                <a class="right carousel-control" href="#myCarousel" data-slide="next">
-                    <span class="glyphicon glyphicon-chevron-right"></span>
-                    <span class="sr-only">Next</span>
-                </a>
-            </div>
-        </div>
-    </div>-->
     <div id="testimonial" class="testimonial-section section white-bg pb-120">
         <div class="imagebg">
             <img src="images/testimonial-bg.png" alt="testimonial-bg">
@@ -620,7 +568,7 @@
                             <div class="col-md-6">
                                 <div class="row">
                                     <div class="col-sm-12">
-                                        <h6><em class="fa fa-phone"></em> +380952869902</h6>
+                                        <h6><em class="fa fa-phone"></em><a href="tel:+380952869902">+380952869902</a></h6>
                                     </div>
                                     <div class="col-sm-12">
                                         <h6><em class="fa fa-skype"></em> <a href="skype:sergey960401?chat"><?=trans('words.contacts.chat')?></a></h6>
@@ -829,10 +777,35 @@
                                 ],
                             'tags'          : ['Web development']
                         },
+                        {
+                            'title'         : 'Baron travel',
+                            'description'   : 'Baron travel is a travel website to book a travel tour to different countries. Baron Travel provides round-the-clock support from the beginning of the journey to the arrival home. <br> - Booking system <br> - Manage tours <br> - CEO optimization',
+                            'thumbnail'     : ['images/baron.png'],
+                            'large'         : ['images/baron.png'],
+                            'img_title'     : ['jquery elastic grid 1 ', 'jquery elastic grid 2', 'jquery elastic grid 3', 'jquery elastic grid 4', 'jquery elastic grid 5'],
+                            'button_list'   :
+                                [
+                                    { 'title':'Live', 'url' : 'https://baron.travel/', 'new_window' : true }
+                                ],
+                            'tags'          : ['Web development']
+                        },
 
                     ]
             });
         });
     </script>
+    <script type="text/javascript">
+        window.__lc = window.__lc || {};
+        window.__lc.license = 10587747;
+        (function() {
+            var lc = document.createElement('script'); lc.type = 'text/javascript'; lc.async = true;
+            lc.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'cdn.livechatinc.com/tracking.js';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(lc, s);
+        })();
+    </script>
+    <noscript>
+        <a href="https://www.livechatinc.com/chat-with/10587747/" rel="nofollow">Chat with us</a>,
+        powered by <a href="https://www.livechatinc.com/?welcome" rel="noopener nofollow" target="_blank">LiveChat</a>
+    </noscript>
 </body>
 </html>

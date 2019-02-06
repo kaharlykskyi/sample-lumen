@@ -8,11 +8,15 @@
         gtag('js', new Date());
         gtag('config', 'UA-42874096-2');
     </script>
+    <link href="https://bumeengroup.com/" rel="canonical">
+    <link href="https://bumeengroup.com/" rel="alternate" hreflang="en-GB">
+    <link href="https://bumeengroup.com/ru" rel="alternate" hreflang="ru-RU">
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="rights" content="Copyright © <?=date('Y')?> Bumeen Group. <?=trans('words.footer.rights')?>">
     <meta name="description" content="<?=trans('words.description')?>">
     <link rel="shortcut icon" href="images/faviconlogo.png">
-    <title><?=trans('words.title')?></title>
+    <title>𝗕𝗨𝗠𝗘𝗘𝗡 𝗚𝗥𝗢𝗨𝗣 |<?=trans('words.title')?></title>
     <link rel="stylesheet" href="assets/css/vendor.bundle-v1.css">
     <link href="assets/css/style-v1.1.css" rel="stylesheet">
     <link href="assets/css/theme-v1.css" rel="stylesheet">
@@ -210,19 +214,6 @@
             </div>
         </div>
     </div>
-    <!--<div id="about" class="about-section section pb-50 white-bg">
-        <div class="container tab-fix">
-            <div class="section-head text-center">
-                <div class="row">
-                    <div class="col-md-8 col-md-offset-2">
-                        <h2 class="heading"><?/*=trans('words.about.title')*/?></h2>
-                        <p><?/*=trans('words.about.p1')*/?></p>
-                        <p><?/*=trans('words.about.p2')*/?></p>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>-->
     <div class="team-contact-section section gradiant-background pb-90">
         <div class="container">
             <div class="section-head text-center">
@@ -307,7 +298,7 @@
                 <div class="col-md-3 col-sm-6">
                     <div class="team-member">
                         <div class="team-photo">
-                            <img style="height: 275px;" src="images/team-a.jpg" alt="team" />
+                            <img style="height: 260px;" src="images/sg.jpg" alt="team" />
                             <a href="#team-profile-1" class="expand-trigger content-popup"><span class="ti ti-plus"></span></a>
                         </div>
                         <div class="team-info">
@@ -320,7 +311,7 @@
                                 <div class="row no-mg">
                                     <div class="col-md-6">
                                         <div class="team-profile-photo">
-                                            <img src="images/team-a.jpg" alt="team" />
+                                            <img src="images/sg.jpg" alt="team" />
                                         </div>
                                     </div>
                                     <div class="col-md-6">
@@ -341,7 +332,7 @@
                 <div class="col-md-3 col-sm-6">
                     <div class="team-member">
                         <div class="team-photo">
-                            <img src="images/viktor.png" style="height: 275px;" alt="team" />
+                            <img src="images/viktor.png" style="height: 260px;" alt="team" />
                             <a href="#team-profile-2" class="expand-trigger content-popup"><span class="ti ti-plus"></span></a>
                         </div>
                         <div class="team-info">
@@ -375,7 +366,7 @@
                 <div class="col-md-3 col-sm-6">
                     <div class="team-member">
                         <div class="team-photo">
-                            <img style="height: 275px;" src="images/team-c.jpg" alt="team" />
+                            <img style="height: 260px;" src="images/yc.jpg" alt="team" />
                             <a href="#team-profile-3" class="expand-trigger content-popup"><span class="ti ti-plus"></span></a>
                         </div>
                         <div class="team-info">
@@ -388,7 +379,7 @@
                                 <div class="row no-mg">
                                     <div class="col-md-6">
                                         <div class="team-profile-photo">
-                                            <img src="images/team-c.jpg" alt="team" />
+                                            <img src="images/yc.jpg" alt="team" />
                                         </div>
                                     </div>
                                     <div class="col-md-6">
@@ -408,12 +399,12 @@
                 <div class="col-md-3 col-sm-6">
                     <div class="team-member">
                         <div class="team-photo">
-                            <img style="height: 275px;" src="images/team-d.jpg" alt="team" />
+                            <img style="height: 260px;" src="images/vk.jpg" alt="team" />
                             <a href="#team-profile-4" class="expand-trigger content-popup"><span class="ti ti-plus"></span></a>
                         </div>
                         <div class="team-info">
-                            <h4 class="name"><?=trans('words.team.anna.name')?></h4>
-                            <p class="sub-title">Business Development Manager</p>
+                            <h4 class="name"><?=trans('words.team.vova.name')?></h4>
+                            <p class="sub-title">Team Lead</p>
                         </div>
                         <div id="team-profile-4" class="team-profile mfp-hide">
                             <button title="Close (Esc)" type="button" class="mfp-close">×</button>
@@ -421,17 +412,17 @@
                                 <div class="row no-mg">
                                     <div class="col-md-6">
                                         <div class="team-profile-photo">
-                                            <img src="images/team-d.jpg" alt="team" />
+                                            <img src="images/vk.jpg" alt="team" />
                                         </div>
                                     </div>
                                     <div class="col-md-6">
                                         <div class="team-profile-info">
-                                            <h3 class="name"><?=trans('words.team.anna.name')?></h3>
-                                            <p class="sub-title">Business Development Manager</p>
+                                            <h3 class="name"><?=trans('words.team.vova.name')?></h3>
+                                            <p class="sub-title">Team Lead</p>
                                             <hr>
-                                            <p><?=trans('words.team.anna.p1')?></p>
-                                            <p><?=trans('words.team.anna.p2')?></p>
-                                            <p><?=trans('words.team.anna.p3')?></p>
+                                            <p><?=trans('words.team.vova.p1')?></p>
+                                            <p><?=trans('words.team.vova.p2')?></p>
+                                            <p><?=trans('words.team.vova.p3')?></p>
                                     </div>
                                 </div>
                             </div>
@@ -629,7 +620,7 @@
                             <div class="col-md-6">
                                 <div class="row">
                                     <div class="col-sm-12">
-                                        <h6><em class="fa fa-chrome"></em> <a href="https://bumeengroup.com">https://bumeengroup.com</a></h6>
+                                        <h6><em class="fa fa-phone"></em> +380952869902</h6>
                                     </div>
                                     <div class="col-sm-12">
                                         <h6><em class="fa fa-skype"></em> <a href="skype:sergey960401?chat"><?=trans('words.contacts.chat')?></a></h6>
@@ -654,6 +645,33 @@
         </div>
     </div>
     <div id="preloader"><div id="status">&nbsp;</div></div>
+    <footer>
+        <div class="footer" style="margin-top: 0;">
+            <div class="footer-section section">
+                <div class="container">
+                    <div class="row text-center">
+                        <div class="col-md-12">
+                            <ul class="footer-navigation inline-list">
+                                <li><a class="nav-item" href="#home"><?=trans('words.menu.home')?></a></li>
+                                <li><a class="nav-item" href="#about"><?=trans('words.menu.about')?></a></li>
+                                <li><a class="nav-item" href="#technologies"><?=trans('words.menu.technologies')?></a></li>
+                                <li><a class="nav-item" href="#team"><?=trans('words.menu.team')?></a></li>
+                                <li><a class="nav-item" href="#screenshots"><?=trans('words.menu.portfolio')?></a></li>
+                                <li><a class="nav-item" href="#testimonial"><?=trans('words.menu.testimonial')?></a></li>
+                                <li><a class="nav-item" href="#contacts"><?=trans('words.menu.contacts')?></a></li>
+                            </ul>
+                            <div class="container" align="center">
+                                <a href="/"><img src="images/logo3-white.png"></a>
+                            </div>
+                            <ul class="footer-links inline-list">
+                                <li>Copyright © <?=date('Y')?> <strong><strong>Bumeen Group</strong></strong>. <?=trans('words.footer.rights')?></li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </footer>
     <script src="assets/js/jquery.bundle.js"></script>
     <script src="assets/js/script.js"></script>
     <script src="assets/vendor/animsition/js/animsition.min.js"></script>
@@ -817,31 +835,4 @@
         });
     </script>
 </body>
-<footer>
-    <div class="footer" style="margin-top: 0;">
-        <div class="footer-section section">
-            <div class="container">
-                <div class="row text-center">
-                    <div class="col-md-12">
-                        <ul class="footer-navigation inline-list">
-                            <li><a class="nav-item" href="#home"><?=trans('words.menu.home')?></a></li>
-                            <li><a class="nav-item" href="#about"><?=trans('words.menu.about')?></a></li>
-                            <li><a class="nav-item" href="#technologies"><?=trans('words.menu.technologies')?></a></li>
-                            <li><a class="nav-item" href="#team"><?=trans('words.menu.team')?></a></li>
-                            <li><a class="nav-item" href="#screenshots"><?=trans('words.menu.portfolio')?></a></li>
-                            <li><a class="nav-item" href="#testimonial"><?=trans('words.menu.testimonial')?></a></li>
-                            <li><a class="nav-item" href="#contacts"><?=trans('words.menu.contacts')?></a></li>
-                        </ul>
-                        <div class="container" align="center">
-                            <a href="/"><img src="images/logo3-white.png"></a>
-                        </div>
-                        <ul class="footer-links inline-list">
-                            <li>Copyright © <?=date('Y')?> <strong><strong>Bumeen Group</strong></strong>. <?=trans('words.footer.rights')?></li>
-                        </ul>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-</footer>
 </html>

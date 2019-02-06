@@ -711,7 +711,7 @@
             start: [ 1000, 8000 ],
             connect: true,
             range: {
-                'min': 1000,
+                'min': 500,
                 'max': 20000
             }
         });

@@ -21,15 +21,14 @@
     <link href="assets/css/style-v1.1.css" rel="stylesheet">
     <link href="assets/css/theme-v1.css" rel="stylesheet">
     <link href="assets/css/vendor/css-hamburgers/hamburgers.min.css" rel="stylesheet">
-    <link href="assets/css/vendor/css-hamburgers/hamburgers.min.css" rel="stylesheet">
     <link href="assets/vendor/select2/select2.min.css" rel="stylesheet">
     <link href="assets/vendor/daterangepicker/daterangepicker.css" rel="stylesheet">
     <link href="assets/vendor/noui/nouislider.min.css" rel="stylesheet">
     <link href="assets/css/material-design-iconic-font.css" rel="stylesheet">
     <link href="assets/css/util.css" rel="stylesheet">
     <link href="assets/css/main-v1.css" rel="stylesheet">
-    <link rel="stylesheet" type="text/css" href="assets/css/demo-v1.css" />
-    <link rel="stylesheet" type="text/css" href="assets/css/elastic_grid.min.css" />
+    <link href="assets/css/demo-v1.css" rel="stylesheet" type="text/css">
+    <link href="assets/css/elastic_grid.min.css" rel="stylesheet" type="text/css" >
 </head>
 <body>
     <div id="home" class="header-section flex-box-middle section gradiant-background">
@@ -696,8 +695,8 @@
                         {
                             'title'         : 'CSGO News website',
                             'description'   : 'We have created a CSGO News website with the following options: <br> - News and tournament sections <br> - Live, Upcoming and Latest matches <br> - Photo and Video Gallery <br> - Forum & Private Chat <br>- CRM for admin when all sections can be managed',
-                            'thumbnail'     : ['images/fuse.jpg'],
-                            'large'         : ['images/fuse.jpg'],
+                            'thumbnail'     : ['images/fuse.png'],
+                            'large'         : ['images/fuse.png'],
                             'img_title'     : ['jquery elastic grid 1 ', 'jquery elastic grid 2', 'jquery elastic grid 3', 'jquery elastic grid 4', 'jquery elastic grid 5'],
                             'button_list'   :
                                 [
@@ -708,8 +707,8 @@
                         {
                             'title'         : 'Esports competition website',
                             'description'   : 'We have created a Esport competitive website with the following options: <br> - News and tournament sections <br> - Users can create a custom tournaments <br> - Users can invite teams and participate in tournaments <br> - Profile & Private Chat <br> - CRM for admin when all sections can be managed',
-                            'thumbnail'     : ['images/esport.jpg'],
-                            'large'         : ['images/esport.jpg'],
+                            'thumbnail'     : ['images/esport.png'],
+                            'large'         : ['images/esport.png'],
                             'img_title'     : ['jquery elastic grid 1 ', 'jquery elastic grid 2', 'jquery elastic grid 3', 'jquery elastic grid 4', 'jquery elastic grid 5'],
                             'button_list'   :
                                 [
@@ -720,8 +719,8 @@
                         {
                             'title'         : 'Heavy equipment marketplace',
                             'description'   : "Unimachine is the heavy equipment marketplace, developed using WordPress technology and modern plugins. This project includes: <br> - Strong admin panel management features <br> - Form builder tool, to provide wise equipment inspection <br> - Payment and map API's integration <br> - Friendly PDF download feature",
-                            'thumbnail'     : ['images/unimachine.jpg'],
-                            'large'         : ['images/unimachine.jpg'],
+                            'thumbnail'     : ['images/unimachine.png'],
+                            'large'         : ['images/unimachine.png'],
                             'img_title'     : ['jquery elastic grid 1 ', 'jquery elastic grid 2', 'jquery elastic grid 3', 'jquery elastic grid 4', 'jquery elastic grid 5'],
                             'button_list'   :
                                 [
@@ -732,8 +731,8 @@
                         {
                             'title'         : 'Canardcoincoin - Cryptocurrency news website',
                             'description'   : 'Canardcoincoin is a cryptocurrency news website with the following options: <br> - News and articles sections <br> - Cryptocurrency live price track <br> - Plugins and CRM to manage content',
-                            'thumbnail'     : ['images/canard.jpg'],
-                            'large'         : ['images/canard.jpg'],
+                            'thumbnail'     : ['images/canard.png'],
+                            'large'         : ['images/canard.png'],
                             'img_title'     : ['jquery elastic grid 1 ', 'jquery elastic grid 2', 'jquery elastic grid 3', 'jquery elastic grid 4', 'jquery elastic grid 5'],
                             'button_list'   :
                                 [
@@ -744,8 +743,8 @@
                         {
                             'title'         : 'SportFit android & ios app',
                             'description'   : 'SportFit is a Android & ios application for sport written on ReactNative with the following options: <br> - Tracking your sport activity <br> - Sport news feed <br> - Blog & community',
-                            'thumbnail'     : ['images/sportfit.jpg'],
-                            'large'         : ['images/sportfit.jpg'],
+                            'thumbnail'     : ['images/sportfit.png'],
+                            'large'         : ['images/sportfit.png'],
                             'img_title'     : ['jquery elastic grid 1 ', 'jquery elastic grid 2', 'jquery elastic grid 3', 'jquery elastic grid 4', 'jquery elastic grid 5'],
                             'button_list'   :
                                 [
@@ -756,8 +755,8 @@
                         {
                             'title'         : 'Funduk - online store',
                             'description'   : 'Funduk is an online store with the following options: <br> - Payment system <br> - Categories & products <br> - CRM and admin panel',
-                            'thumbnail'     : ['images/funduk.jpg'],
-                            'large'         : ['images/funduk.jpg'],
+                            'thumbnail'     : ['images/funduk.png'],
+                            'large'         : ['images/funduk.png'],
                             'img_title'     : ['jquery elastic grid 1 ', 'jquery elastic grid 2', 'jquery elastic grid 3', 'jquery elastic grid 4', 'jquery elastic grid 5'],
                             'button_list'   :
                                 [
@@ -768,8 +767,8 @@
                         {
                             'title'         : 'Bison - online store',
                             'description'   : 'Bison is a betting company with the following options: <br> - Payment system <br> - Tracking and live updating coefficients <br> - Live streaming',
-                            'thumbnail'     : ['images/bison.jpg'],
-                            'large'         : ['images/bison.jpg'],
+                            'thumbnail'     : ['images/bison.png'],
+                            'large'         : ['images/bison.png'],
                             'img_title'     : ['jquery elastic grid 1 ', 'jquery elastic grid 2', 'jquery elastic grid 3', 'jquery elastic grid 4', 'jquery elastic grid 5'],
                             'button_list'   :
                                 [

@@ -28,7 +28,7 @@
     <link href="assets/css/material-design-iconic-font.css" rel="stylesheet">
     <link href="assets/css/util.css" rel="stylesheet">
     <link href="assets/css/main-v1.css" rel="stylesheet">
-    <link rel="stylesheet" type="text/css" href="assets/css/demo.css" />
+    <link rel="stylesheet" type="text/css" href="assets/css/demo-v1.css" />
     <link rel="stylesheet" type="text/css" href="assets/css/elastic_grid.min.css" />
 </head>
 <body>

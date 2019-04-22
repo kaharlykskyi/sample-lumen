@@ -454,14 +454,38 @@
                 <div class="row">
                     <div class="col-md-8 col-md-offset-2">
                         <h2 class="heading"><?=trans('words.testimonial.title')?></h2>
-                        <p><?=trans('words.testimonial.p1')?></p>
-                        <p><?=trans('words.testimonial.p2')?></p>
+                        <p><?=trans('words.testimonial.p1')?> <?=trans('words.testimonial.p2')?></p>
+                        <div class="row">
+                            <div class="col-md-2 col-md-offset-5">
+                                <img src="images/top.png" alt="Top rated agency" class="img-responsive" style="margin-top: 20px">
+                            </div>
+                        </div>
                     </div>
                 </div>
             </div>
             <div class="row">
                 <div class="col-md-10 col-md-offset-1">
                     <div class="testimonial-carousel has-carousel" data-items="2" data-loop="true" data-dots="true" data-auto="true" data-navs="false">
+                        <div class="item text-center">
+                            <div class="quotes">
+                                <img src="images/quote-icon.png" class="quote-icon" alt="quote-icon" />
+                                <blockquote>Great to work with that team. It is my second job with them, I will probably hire them on another job. We had great issues but with communication we managed to overwhelm those problems and make a great job. More important, for the job we had a fixed number of hours and they did not hesitate to work more hours than previewed to deliver. Great team.</a></blockquote>
+                                <h6>Pere Raphael</h6>
+                                <div class="client-image">
+                                    <img src="images/client-1.jpg" alt="client" />
+                                </div>
+                            </div>
+                        </div>
+                        <div class="item text-center">
+                            <div class="quotes">
+                                <img src="images/quote-icon.png" class="quote-icon" alt="quote-icon" />
+                                <blockquote>Great team to work with on our first project. Keep up the good work and we'll do many more together.</a></blockquote>
+                                <h6>Pere Raphael</h6>
+                                <div class="client-image">
+                                    <img src="images/client-1.jpg" alt="client" />
+                                </div>
+                            </div>
+                        </div>
                         <div class="item text-center">
                             <div class="quotes">
                                 <img src="images/quote-icon.png" class="quote-icon" alt="quote-icon" />
@@ -594,7 +618,7 @@
     <div id="preloader"><div id="status">&nbsp;</div></div>
     <footer>
         <div class="footer" style="margin-top: 0;">
-            <div class="footer-section section">
+            <div class="footer-section section" style="background: none;">
                 <div class="container">
                     <div class="row text-center">
                         <div class="col-md-12">
@@ -610,8 +634,8 @@
                             <div class="container" align="center">
                                 <a href="/"><img src="images/logo3-white.png"></a>
                             </div>
-                            <ul class="footer-links inline-list">
-                                <li>Copyright © <?=date('Y')?> <strong><strong>Bumeen Group</strong></strong>. <?=trans('words.footer.rights')?></li>
+                            <ul class="footer-links inline-list" style="margin-top: 15px">
+                                <li style="color: #fff">Copyright © 2016 - <?=date('Y')?> <strong><strong>Bumeen Group</strong></strong>. <?=trans('words.footer.rights')?></li>
                             </ul>
                         </div>
                     </div>

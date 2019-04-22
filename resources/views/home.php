@@ -802,6 +802,5 @@
             var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(lc, s);
         })();
     </script>
-    <script type="text/javascript" src="https://ze2019.com/ze-widget.js"></script>
 </body>
 </html>

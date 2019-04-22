@@ -644,7 +644,7 @@
         </div>
     </footer>
     <script src="assets/js/jquery.bundle.js"></script>
-    <script src="assets/js/script.js"></script>
+    <script src="assets/js/script-v1.js"></script>
     <script src="assets/vendor/animsition/js/animsition.min.js"></script>
     <script src="assets/vendor/bootstrap/js/popper.js"></script>
     <script src="assets/vendor/bootstrap/js/bootstrap.min.js"></script>
